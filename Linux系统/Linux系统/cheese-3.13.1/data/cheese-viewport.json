@@ -1,0 +1,60 @@
+[
+{
+  "id": "video_preview",
+  "type": "ClutterTexture",
+  "child::x-align": "CLUTTER_BIN_ALIGNMENT_CENTER",
+  "child::y-align": "CLUTTER_BIN_ALIGNMENT_CENTER"
+},
+{
+  "id": "background",
+  "type": "ClutterActor",
+  "background-color": "Black",
+  "x": 0,
+  "y": 0,
+  "width":768,
+  "height":1024
+},
+{
+  "id": "countdown_layer",
+  "type": "ClutterText",
+  "child::x-align": "CLUTTER_BIN_ALIGNMENT_CENTER",
+  "child::y-align": "CLUTTER_BIN_ALIGNMENT_CENTER",
+  "text": "1",
+  "font-name": "Sans 150px",
+  "opacity": 0,
+  "color": "White"
+},
+{
+  "id": "error_layer",
+  "type": "ClutterText",
+  "child::x-align": "CLUTTER_BIN_ALIGNMENT_CENTER",
+  "child::y-align": "CLUTTER_BIN_ALIGNMENT_CENTER",
+  "color": "White",
+  "visible": false
+},
+{
+  "id": "timeout_layer",
+  "type": "ClutterText",
+  "color": "White",
+  "font-name": "Sans bold 15px",
+  "x": 0,
+  "y": 0,
+  "width":100,
+  "height":20,
+  "visible": false
+},
+{
+  "id": "viewport_layout",
+  "type": "ClutterActor",
+  "children":
+  [
+    'video_preview',
+    'countdown_layer',
+    'error_layer'
+  ]
+},
+{
+  "id": "viewport_layout_manager",
+  "type": "ClutterBinLayout"
+}
+]

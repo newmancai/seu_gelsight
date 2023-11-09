@@ -1,0 +1,5 @@
+linux系统的USB camera应用程序源码
+luvcview: 基于V4L2、SDL的程序，支持拍照录像，参数调节，代码精简实用，适合学习V4L2编程
+cheese：基于V4L2、GTK的程序，支持拍照录像，特殊视频效果
+motion：移动侦测拍照程序
+mjpg-streamer：网络摄像机程序

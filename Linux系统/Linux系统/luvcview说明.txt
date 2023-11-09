@@ -1,0 +1,14 @@
+在桌面Linux系统上可直接从网络获取luvcview应用
+如在ubuntu系统： apt-get install luvcview
+运行：luvcview -d /dev/video0 -s 1280x720
+
+查看luvcview的参数：luvcview --help
+
+在PC机编译luvcview源码：
+解压luvcview_0.2.4.orig.tar.gz
+执行make
+
+需要系统里有X11和SDL库，根据系统版本不同，可能要修改头文件：
+#include <linux/videodev.h>  -->   #include <linux/videodev2.h>
+
+其中v4l2uvc.c是最经典的V4L2代码，建议开发者直接拿这个文件中的接口函数使用，参见我们写的“MJPEG录像代码”

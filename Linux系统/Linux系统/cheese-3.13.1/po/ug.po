@@ -1,0 +1,765 @@
+# Uighur translation for cheese.
+# Copyright (C) 2010 cheese's COPYRIGHT HOLDER
+# This file is distributed under the same license as the cheese package.
+# Gheyret Kenji <gheyret@yahoo.com>, 2010.
+# Sahran <sahran.ug@gmail.com>, 2010
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese gnome-2-32\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=cheese&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2013-01-19 02:58+0000\n"
+"PO-Revision-Date: 2013-02-17 14:19+0900\n"
+"Last-Translator: Gheyret Kenji <gheyret@gmail.com>\n"
+"Language-Team: Uyghur Computer Science Association <UKIJ@yahoogroups.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../data/cheese-actions.ui.h:1
+msgid "Share…"
+msgstr "ھەمبەھىر…"
+
+#: ../data/cheese-actions.ui.h:2
+msgid "Save _As…"
+msgstr "باشقا ئاتتا ساقلا(_A)…"
+
+#: ../data/cheese-actions.ui.h:3
+msgid "Move to _Trash"
+msgstr "ئەخلەتخانىغا يۆتكە(_T)"
+
+#: ../data/cheese-actions.ui.h:4
+msgid "Move _All to Trash"
+msgstr "ھەممىنى ئەخلەتخانىغا يۆتكە(_A)"
+
+#: ../data/cheese-actions.ui.h:5
+msgid "_Wide Mode"
+msgstr "كەڭرى ھالەت(_W)"
+
+#: ../data/cheese-actions.ui.h:6
+msgid "P_revious Effects"
+msgstr "ئالدىنقى ئۈنۈملەر(_R)"
+
+#: ../data/cheese-actions.ui.h:7
+msgid "Ne_xt Effects"
+msgstr "كېيىنكى ئۈنۈملەر(_X)"
+
+#: ../data/cheese-main-window.ui.h:1
+msgid "Photo mode"
+msgstr "سۈرەتكە تارتىش ھالىتى"
+
+#: ../data/cheese-main-window.ui.h:2
+msgid "Video mode"
+msgstr "سىنغا ئېلىش ھالىتى"
+
+#: ../data/cheese-main-window.ui.h:3
+msgid "Photo burst mode"
+msgstr "ئارقىمۇ-ئارقا سۈرەتكە تارتىش ھالىتى"
+
+#: ../data/cheese-main-window.ui.h:4 ../libcheese/cheese-avatar-chooser.c:263
+#: ../src/cheese-window.vala:1504
+msgid "Take a photo"
+msgstr "سۈرەتكە تارتىدۇ"
+
+#: ../data/cheese-main-window.ui.h:5 ../src/cheese-window.vala:1503
+msgid "_Take a Photo"
+msgstr "سۈرەتكە تارت(_T)"
+
+#: ../data/cheese-main-window.ui.h:6
+msgid "Previous"
+msgstr "ئالدىنقى"
+
+#: ../data/cheese-main-window.ui.h:7
+msgid "Effects"
+msgstr "ئۈنۈملەر"
+
+#: ../data/cheese-main-window.ui.h:8 ../src/cheese-main.vala:107
+msgid "_Effects"
+msgstr "ئۈنۈملەر(_E)"
+
+#: ../data/cheese-main-window.ui.h:9
+msgid "Next"
+msgstr "كېيىنكى"
+
+#: ../data/cheese-main-window.ui.h:10
+msgid "Leave fullscreen"
+msgstr "تولۇق ئېكران ھالىتىدىن چىقىش"
+
+#: ../data/cheese-main-window.ui.h:11
+msgid "_Leave Fullscreen"
+msgstr "پۈتۈن ئېكراندىن ئايرىل(_L)"
+
+#: ../data/cheese-prefs.ui.h:1
+msgid "Preferences"
+msgstr "مايىللىق"
+
+#: ../data/cheese-prefs.ui.h:2
+msgid "Device"
+msgstr "ئۈسكۈنە"
+
+#: ../data/cheese-prefs.ui.h:3
+msgid "Photo resolution"
+msgstr "سۈرەت ئېنىقلىقى"
+
+#: ../data/cheese-prefs.ui.h:4
+msgid "Video resolution"
+msgstr "سىن ئېنىقلىقى"
+
+#: ../data/cheese-prefs.ui.h:5
+msgid "Webcam"
+msgstr "ۋېبكامېرا"
+
+#: ../data/cheese-prefs.ui.h:6
+msgid "Brightness"
+msgstr "يورۇقلۇق"
+
+#: ../data/cheese-prefs.ui.h:7
+msgid "Saturation"
+msgstr "تويۇنۇش"
+
+#: ../data/cheese-prefs.ui.h:8
+msgid "Hue"
+msgstr "رەڭگى"
+
+#: ../data/cheese-prefs.ui.h:9
+msgid "Contrast"
+msgstr "ئاق-قارىلىقى"
+
+#: ../data/cheese-prefs.ui.h:10
+msgid "Image"
+msgstr "سۈرەت"
+
+#: ../data/cheese-prefs.ui.h:11
+msgid "Shutter"
+msgstr "Shutter"
+
+#: ../data/cheese-prefs.ui.h:12
+msgid "_Countdown"
+msgstr "تەتۈر سانا(_C)"
+
+#: ../data/cheese-prefs.ui.h:13
+msgid "Fire _Flash"
+msgstr "نۇر چاقنات(_F)"
+
+#: ../data/cheese-prefs.ui.h:14
+msgid "Burst mode"
+msgstr "ئارقىمۇ-ئارقا تارتىش"
+
+#: ../data/cheese-prefs.ui.h:15
+msgid "Number of photos"
+msgstr "سۈرەت سانى"
+
+#: ../data/cheese-prefs.ui.h:16
+msgid "Delay between photos (seconds)"
+msgstr "رەسىم ئارىلىقىدىكى ۋاقىت(سېكۇنت)"
+
+#: ../data/cheese-prefs.ui.h:17
+msgid "Capture"
+msgstr "تۇت"
+
+#: ../data/cheese.desktop.in.in.h:1 ../src/cheese-main.vala:81
+#: ../src/cheese-main.vala:524
+msgid "Cheese"
+msgstr "Cheese"
+
+#: ../data/cheese.desktop.in.in.h:2
+msgid "Cheese Webcam Booth"
+msgstr "Cheese Webcam Booth"
+
+#: ../data/cheese.desktop.in.in.h:3 ../src/cheese-main.vala:519
+msgid "Take photos and videos with your webcam, with fun graphical effects"
+msgstr "ۋېبكامېرا ئارقىلىق سىن ۋە سۈرەتلەرنى تارتىش بىلەن بىرگە ئۇنىڭغا قىزىقارلىق گرافىكىلىق ئۈنۈملەرنى قوشۇش پروگراممىسى"
+
+#: ../data/cheese.desktop.in.in.h:4
+msgid "photo;video;webcam;"
+msgstr "photo;video;webcam;سۈرەت;سىن;توركامېرا;"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:1
+msgid "Use a countdown"
+msgstr "تەتۈر ساناشنى ئىشلەت"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:2
+msgid "Set to true to show a countdown before taking a photo"
+msgstr "ئەگەر True قىلىنسا، سۈرەتكە تارتىۋاتقاندا چاغدا تەتۈر ساناشنى كۆرسىتىدۇ"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:3
+msgid "Countdown length"
+msgstr "تەتۈر ساناش ئۇزۇنلۇقى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:4
+msgid "The duration of the countdown before taking a photo, in seconds"
+msgstr "سۈرەت تارتىشنى باشلاشنىڭ ئالدىكى سېكۇنت بىلەن ئىپادىلەنگەن تەتۈر ساناش ۋاقتى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:5
+msgid "Fire flash before taking a picture"
+msgstr "سۈرەت تارتىشنىڭ ئالدىدا چىراغنى چاقناتسۇن"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:6
+msgid "Set to true to fire a flash when taking a picture"
+msgstr "ئەگەر true بولسا، سۈرەت تارتىشتىن ئاۋۋال چىراغنى چاقنىتىدۇ"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:7
+msgid "Camera device string indicator"
+msgstr "كامېرانىڭ ئۈسكۈنە ئاتى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:8
+msgid ""
+"The path to the device node which points to the camera, for example /dev/"
+"video0"
+msgstr "كامېرانىڭ ئۈسكۈنە تۈگۈنىنىڭ يولى (مەسىلەن: /dev/video0)"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:9
+msgid "Last selected effect"
+msgstr "ئەڭ ئاخىرقى قېتىم تاللانغان ئۈنۈم"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:10
+msgid "Name of the installed effect that was selected last"
+msgstr "ئەڭ ئاخىرقى قېتىم تاللانغان ھەم ئورنىتىلغان ئۈنۈمنىڭ ئاتى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:11
+msgid "Photo width"
+msgstr "سۈرەت كەڭلىكى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:12
+msgid "The width of the image captured from the camera, in pixels"
+msgstr "كامېرادىن تۇتۇلغان سۈرەتنىڭ پىكسېل بىلەن ئىپادىلەنگەن كەڭلىكى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:13
+msgid "Photo height"
+msgstr "سۈرەت ئېگىزلىكى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:14
+msgid "The height of the image captured from the camera, in pixels"
+msgstr "كامېرادىن تۇتۇلغان رەسىمنىڭ پىكسېل بىلەن ئىپادىلەنگەن ئېگىزلىكى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:15
+msgid "Video width"
+msgstr "سىن كەڭلىكى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:16
+msgid "The width of the video captured from the camera, in pixels"
+msgstr "كامېرادىن تۇتۇلغان سىننىڭ پىكسېل بىلەن ئىپادىلەنگەن كەڭلىكى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:17
+msgid "Video height"
+msgstr "سىن ئېگىزلىكى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:18
+msgid "The height of the video captured from the camera, in pixels"
+msgstr "كامېرادىن تۇتۇلغان سىننىڭ پىكسېل بىلەن ئىپادىلەنگەن ئېگىزلىكى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:19
+msgid "Picture brightness"
+msgstr "سۈرەتنىڭ يورۇقلۇقى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:20
+msgid "Adjusts the brightness of the picture coming from the camera"
+msgstr "كامېرادىن كەلگەن سۈرەتنىڭ يورۇقلۇقىنى تەڭشەش"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:21
+msgid "Picture contrast"
+msgstr "سۈرەتنىڭ ئاق-قارىلىقى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:22
+msgid "Adjusts the contrast of the picture coming from the camera"
+msgstr "كامېرادىن كەلگەن سۈرەتنىڭ ئاق-قارىلىقى تەڭشەش"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:23
+msgid "Picture saturation"
+msgstr "سۈرەتنىڭ تويۇنۇش دەرىجىسى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:24
+msgid "Adjusts the saturation of the picture coming from the camera"
+msgstr "كامېرادىن كەلگەن سۈرەتنىڭ تويۇنۇشچانلىقىنى تەڭشەيدۇ"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:25
+msgid "Picture hue"
+msgstr "سۈرەتنىڭ رەڭگى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:26
+msgid "Adjusts the hue (color tint) of the picture coming from the camera"
+msgstr "كامېرادىن كەلگەن سۈرەتنىڭ  رەڭگىنى تەڭشەيدۇ"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:27
+msgid "Video Path"
+msgstr "سىن يولى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:28
+msgid ""
+"Defines the path where the videos are stored. If empty, \"XDG_VIDEO/Webcam\" "
+"will be used."
+msgstr "سىن ساقلىنىدىغان يولنى بەلگىلەيدۇ. ئەگەر قۇرۇق بولسا \"XDG_PHOTO/Webcam\" نى ئىشلىتىلىدۇ."
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:29
+msgid "Photo Path"
+msgstr "سۈرەت يولى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:30
+msgid ""
+"Defines the path where the photos are stored. If empty, \"XDG_PHOTO/Webcam\" "
+"will be used."
+msgstr "سۈرەتلەر ساقلىنىدىغان يولنى بەلگىلەيدۇ. ئەگەر قۇرۇق بولسا \"XDG_PHOTO/Webcam\" نى ئىشلىتىلىدۇ."
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:31
+msgid "Whether to start in wide mode"
+msgstr "كەڭ ھالەتتە قوزغالسۇنمۇ"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:32
+msgid ""
+"If set to true, Cheese will start up in wide mode, with the image collection "
+"placed on the right-hand side. Useful with small screens."
+msgstr "ئەگەر true قىلىنسا، Cheese كەڭ ھالەتتە قوزغىلىدۇ، ئوڭ تەرەپتە سۈرەتلەر توپلىمى بار كۆزنەك كۆرۈنىدۇ. كىچىك ئېكرانلاردا بۇنى ئىشلەتسە بەكمۇ ياخشى بولىدۇ."
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:33
+msgid "Whether to start in fullscreen"
+msgstr "تولۇق ئېكران ھالەتتە قوزغالسۇنمۇ"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:34
+msgid "If set to true, Cheese will start up in fullscreen mode."
+msgstr "ئەگەر true قىلىنسا، Cheese تولۇق ئېكران ھالەتتە قوزغىلىدۇ."
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:35
+msgid "Time between photos in burst mode"
+msgstr "ئۇدا تارتىش ھالىتىدىكى سۈرەتلەرنىڭ ئارىسىدىكى ۋاقىت"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:36
+msgid ""
+"The length of time, in milliseconds, to delay between taking each photo in a "
+"burst sequence of photos. If the burst delay is less than the countdown "
+"duration, the countdown duration will be used instead."
+msgstr "ھەمبەھىر…"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:37
+msgid "Number of photos in burst mode"
+msgstr "ئۈزمەي تارتىش ھالىتىدىكى سۈرەتلەرنىڭ سانى"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:38
+msgid "The number of photos to take in a single burst."
+msgstr "بىر قېتىملىق ئارقىمۇ-ئارقا تارتىشتا، تارتىدىغان سۈرەت سانى."
+
+#: ../libcheese/cheese-avatar-chooser.c:138 ../src/cheese-window.vala:807
+msgid "Shutter sound"
+msgstr "تېز قاپقاقنىڭ ئاۋازى"
+
+#: ../libcheese/cheese-avatar-chooser.c:260
+msgid "Select"
+msgstr "تاللا"
+
+#: ../libcheese/cheese-avatar-chooser.c:281
+msgid "_Take a photo"
+msgstr "سۈرەتكە تارت(_T)"
+
+#: ../libcheese/cheese-avatar-chooser.c:294
+msgid "_Discard photo"
+msgstr "سۈرەتنى تاشلىۋەت(_D)"
+
+#: ../libcheese/cheese-camera-device.c:401
+msgid "Device capabilities not supported"
+msgstr "ئۈسكۈنىنىڭ بۇ ئىقتىدارىنى ئىشلەتكىلى بولمايدۇ"
+
+#: ../libcheese/cheese-camera-device.c:430
+#, c-format
+msgid "Failed to initialize device %s for capability probing"
+msgstr "ئۈسكۈنە %s نىڭ ئىقتىدارىنى تەكشۈرۈشنى دەسلەپلەشتۈرۈش مەغلۇپ بولدى"
+
+#: ../libcheese/cheese-camera-device.c:619
+msgid "Unknown device"
+msgstr "نامەلۇم ئۈسكۈنە"
+
+#: ../libcheese/cheese-camera-device.c:642
+msgid "Cancellable initialization not supported"
+msgstr "فورماتلاشنى ئىناۋەتسىز قىلىشقا بولمايدۇ"
+
+#: ../libcheese/cheese-camera.c:453 ../libcheese/cheese-camera.c:1567
+msgid "One or more needed GStreamer elements are missing: "
+msgstr "GStreamer  نىڭ كېرەكلىك ئېلېمېنت تېپىلمىدى: "
+
+#: ../libcheese/cheese-camera.c:1527
+#, c-format
+msgid "No device found"
+msgstr "ئۈسكۈنە تېپىلمىدى"
+
+#. Translators: This is a time format, like "09:05:02" for 9
+#. * hours, 5 minutes, and 2 seconds. You may change ":" to
+#. * the separator that your locale uses or use "%Id" instead
+#. * of "%d" if your locale uses localized digits.
+#.
+#: ../libcheese/cheese-camera.c:1802
+#, c-format
+msgctxt "time format"
+msgid "%02i:%02i:%02i"
+msgstr "%02i:%02i:%02i"
+
+#: ../src/cheese-effects-manager.vala:50
+msgid "No Effect"
+msgstr "ئۈنۈم يوق"
+
+#: ../src/cheese-main.vala:51
+msgid "Start in wide mode"
+msgstr "كەڭرى ھالەتتە باشلايدۇ"
+
+#: ../src/cheese-main.vala:52
+msgid "Device to use as a camera"
+msgstr "كامېرا سۈپىتىدە ئىشلىتىدىغان ئۈسكۈنە"
+
+#: ../src/cheese-main.vala:52
+msgid "DEVICE"
+msgstr "ئۈسكۈنە"
+
+#: ../src/cheese-main.vala:53
+msgid "Output version information and exit"
+msgstr "نەشر ئۇچۇرىنى كۆرسىتىپ ئاخىرلاشتۇرىدۇ"
+
+#: ../src/cheese-main.vala:54
+msgid "Start in fullscreen mode"
+msgstr "تولۇق ئېكران ھالىتىدە قوزغىتىش"
+
+#: ../src/cheese-main.vala:92
+msgid "_Shoot"
+msgstr "سىنغا ئال(_S)"
+
+#: ../src/cheese-main.vala:96
+msgid "Mode:"
+msgstr "ئۇسۇلى:"
+
+#: ../src/cheese-main.vala:97
+msgid "_Photo"
+msgstr "سۈرەت(_P)"
+
+#: ../src/cheese-main.vala:98
+msgid "_Video"
+msgstr "سىن(_V)"
+
+#: ../src/cheese-main.vala:99
+msgid "_Burst"
+msgstr "ئارقىمۇ-ئارقا تارت(_B)"
+
+#: ../src/cheese-main.vala:102
+msgid "_Fullscreen"
+msgstr "تولۇق ئېكران( _F)"
+
+#: ../src/cheese-main.vala:110
+msgid "P_references"
+msgstr "مايىللىق(_R)"
+
+#: ../src/cheese-main.vala:113
+msgid "_About"
+msgstr "ھەققىدە(_A)"
+
+#: ../src/cheese-main.vala:114
+msgid "_Help"
+msgstr "ياردەم(_H)"
+
+#: ../src/cheese-main.vala:117
+msgid "_Quit"
+msgstr "ئاخىرلاشتۇر(_Q)"
+
+#: ../src/cheese-main.vala:182
+msgid "- Take photos and videos from your webcam"
+msgstr "- ۋېبكامېرا ئارقىلىق سىن ۋە سۈرەتلەرنى تارتىدۇ"
+
+#: ../src/cheese-main.vala:194
+#, c-format
+msgid "Run '%s --help' to see a full list of available command line options.\n"
+msgstr "'%s --help' ئىجرا قىلىنسا بۇيرۇق قۇرى تاللانمىسىنىڭ تولۇق تىزىمى كۆرۈنىدۇ.\n"
+
+#: ../src/cheese-main.vala:209
+#, c-format
+msgid "Another instance of Cheese is currently running\n"
+msgstr "نۆۋەتتە Cheese نىڭ بىر ئۈلگىسى ئىجرا قىلىنىۋېتىپتۇ.\n"
+
+#: ../src/cheese-main.vala:525
+msgid "translator-credits"
+msgstr "Gheyret Kenji <gheyret@gmail.com>\n"
+"Sahran<sahran@live.com>\n"
+"Muhemmed Erdem <misran_erdem@hotmail.com>"
+
+#: ../src/cheese-main.vala:527
+msgid "Cheese Website"
+msgstr "Cheese تورتۇراسى"
+
+#: ../src/cheese-window.vala:192
+#, c-format
+msgid "Could not open %s"
+msgstr "%s نى ئاچالمىدى"
+
+#: ../src/cheese-window.vala:220
+#, c-format
+msgid "Are you sure you want to permanently delete the file?"
+msgid_plural "Are you sure you want to permanently delete %d files?"
+msgstr[0] "راستلا %d دانە ھۆججەتنى مەڭگۈلۈك ئۆچۈرەمسىز؟"
+
+#: ../src/cheese-window.vala:226
+msgid "If you delete an item, it will be permanently lost"
+msgid_plural "If you delete the items, they will be permanently lost"
+msgstr[0] "ئەگەر تۈرلەرنى ئۆچۈرسىڭىز ئۇنداقتا ئۇ مەڭگۈلۈك يوقىلىدۇ"
+
+#: ../src/cheese-window.vala:302
+#, c-format
+msgid "Could not move %s to trash"
+msgstr "«%s» نى ئەخلەتخانىغا يۆتكىگىلى بولمىدى"
+
+#. Nothing selected.
+#: ../src/cheese-window.vala:451
+msgid "Save File"
+msgstr "ھۆججەت ساقلاش"
+
+#: ../src/cheese-window.vala:485
+#, c-format
+msgid "Could not save %s"
+msgstr "%s نى ساقلىغىلى بولمىدى"
+
+#: ../src/cheese-window.vala:918
+msgid "Stop _Recording"
+msgstr "خاتىرىلەشنى توختات(_R)"
+
+#: ../src/cheese-window.vala:919
+msgid "Stop recording"
+msgstr "خاتىرىلەشنى توختات"
+
+#: ../src/cheese-window.vala:934 ../src/cheese-window.vala:1508
+msgid "_Record a Video"
+msgstr "سىن خاتىرىلە(_R)"
+
+#: ../src/cheese-window.vala:935 ../src/cheese-window.vala:1509
+msgid "Record a video"
+msgstr "سىنغا ئالىدۇ"
+
+#. FIXME: Set the effects action to be inactive.
+#: ../src/cheese-window.vala:970
+msgid "Stop _Taking Pictures"
+msgstr "سۈرەتكە ئېلىشنى توختات(_T)"
+
+#: ../src/cheese-window.vala:971
+msgid "Stop taking pictures"
+msgstr "سۈرەتكە ئېلىشنى توختات(_T)"
+
+#: ../src/cheese-window.vala:994
+msgid "Take Multiple Photos"
+msgstr "كۆپ سۈرەتكە تارتىش"
+
+#: ../src/cheese-window.vala:995 ../src/cheese-window.vala:1516
+msgid "Take multiple photos"
+msgstr "كۆپ سۈرەتكە تارتىش"
+
+#: ../src/cheese-window.vala:1150
+msgid "No effects found"
+msgstr "ئۈنۈملەر تېپىلمىدى"
+
+#: ../src/cheese-window.vala:1515
+msgid "Take _Multiple Photos"
+msgstr "كۆپ سۈرەتكە تارت(_M)"
+
+#~ msgid "_Cheese"
+#~ msgstr "Cheese(_C)"
+
+#~ msgid "_Contents"
+#~ msgstr "مەزمۇنلار(_C)"
+
+#~ msgid "_Edit"
+#~ msgstr "تەھرىر(_E)"
+
+#~ msgid "<b>Shutter</b>"
+#~ msgstr "<b>ئېچىلىش-يېپىلىش كۆزى</b>"
+
+#~ msgid ""
+#~ "This program is free software; you can redistribute it and/or modify it "
+#~ "under the terms of the GNU General Public License as published by the "
+#~ "Free Software Foundation; either version 2 of the License, or (at your "
+#~ "option) any later version.\n"
+#~ "\n"
+#~ "This program is distributed in the hope that it will be useful, but "
+#~ "WITHOUT ANY WARRANTY; without even the implied warranty of "
+#~ "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General "
+#~ "Public License for more details.\n"
+#~ "\n"
+#~ "You should have received a copy of the GNU General Public License along "
+#~ "with this program. If not, see http://www.gnu.org/licenses/\n"
+#~ msgstr ""
+#~ "بۇ پروگرامما ئەركىن يۇمشاق دېتال؛ سىز ئەركىن يۇمشاق دېتال ۋەخپىسى "
+#~ "تارقاتقان GNU ئادەتتىكى ئاممىۋى ئىجازەتنامە بويىچە ئۇنى قايتا تارقىتىپ "
+#~ "ياكى ئۆزگەرتەلەيسىز؛ سىز شۇ ئىجازەت كېلىشىمىنىڭ ئىككىنچى نەشرى ياكى "
+#~ "يۇقىرى نەشرىنى ئىشلەتسىڭىز بولىدۇ.\n"
+#~ "\n"
+#~ "بۇ پروگراممىنى تارقىتىشتىكى مەقسەت سىزگە قۇلايلىق ئېلىپ كېلىش، ئەمما سودا "
+#~ "ياكى باشقا ئالاھىدە قوللىنىشقا نىسبەتەن ھېچقانداق كاپالەت يوق.  GNU "
+#~ "ئادەتتىكى ئاممىۋى ئىجازەت كېلىشىمىنى كۆرۈپ تېخىمۇ كۆپ تەپسىلاتقا "
+#~ "ئېرىشىڭ.\n"
+#~ "\n"
+#~ "مەزكۇر پروگرامما بىلەن بىرگە ئادەتتىكى ئاممىۋى ئىجازەتنامە(GNU General "
+#~ "Public) ئىجازەتنامىسىنى چوقۇم بىرگە بولىدۇ.ئۇنداق بولمىسا http://www.gnu."
+#~ "org/licenses غا قاراڭ.\n"
+
+#~ msgid "Image properties"
+#~ msgstr "رەسىم خاسلىقى"
+
+#~ msgid "_Delete"
+#~ msgstr "ئۆچۈر(_D)"
+
+#~ msgid "_Open"
+#~ msgstr "ئاچ(_O)"
+
+#~ msgid "_Preferences"
+#~ msgstr "مايىللىق(_P)"
+
+#~ msgid "%d "
+#~ msgstr "%d "
+
+#~ msgid "Resolution"
+#~ msgstr "ئېنىقلىق"
+
+#~ msgid "Enable wide mode"
+#~ msgstr "كەڭرى ھالەتنى ئىشلىتىدۇ"
+
+#~ msgid ""
+#~ "A list of effects applied on startup. Possible values are: \"mauve\", "
+#~ "\"noir_blanc\", \"saturation\", \"hulk\", \"vertical-flip\", \"horizontal-"
+#~ "flip\", \"shagadelic\", \"vertigo\", \"edge\", \"dice\" and \"warp\""
+#~ msgstr ""
+#~ "باشلانغاندا ئىشلىتىدىغان ئۈنۈملەرنىڭ تىزىملىكى: \"mauve\"،\"noir_blanc\", "
+#~ "\"saturation\", \"hulk\", \"vertical-flip\", \"horizontal-flip\", "
+#~ "\"shagadelic\", \"vertigo\", \"edge\", \"dice\" and \"warp\""
+
+#~ msgid ""
+#~ "If set to true, then Cheese will have a feature allowing you to delete a "
+#~ "file immediately and in-place, instead of moving it to the trash. This "
+#~ "feature can be dangerous, so use caution."
+#~ msgstr ""
+#~ "TRUE قىلىنسا ئەخلەت ساندۇقىغا تاشلىمايلا، ھۆججەتنى ئۆچۈرۈۋېتىدۇ. شۇڭا "
+#~ "بۇنى ئىشلەتكەندە دىققەت قىلىڭ."
+
+#~ msgid "Whether to enable immediate deletion"
+#~ msgstr "دەرھال ئۆچۈرۈشنى قوزغىتامدۇ يوق"
+
+#~ msgid "Use a flash"
+#~ msgstr "چىراغ ئىشلەت"
+
+#~ msgid "Switch to Burst Mode"
+#~ msgstr "ئارقىمۇ-ئارقا تارتىشقا ئالماش"
+
+#~ msgid "Switch to Photo Mode"
+#~ msgstr "ئادەتتىكى تارتىشقا ئالماش"
+
+#~ msgid "Switch to Video Mode"
+#~ msgstr "سىن تارتىشقا ئالماش"
+
+#~ msgid "Switch to the Effects Selector"
+#~ msgstr "ئۇنۇم تاللاش ھالىتىگە ئالماش"
+
+#~ msgid "_Skip"
+#~ msgstr "ئاتلا(_S)"
+
+#~ msgid "S_kip All"
+#~ msgstr "ھەممىدىن ئاتلا(_K)"
+
+#~ msgid "Delete _All"
+#~ msgstr "ھەممىنى ئۆچۈر(_A)"
+
+#~ msgid ""
+#~ "Failed to launch program to show:\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "كۆرسىتىش پروگراممىسىنى قوزغىتىش مەغلۇپ بولدى:\n"
+#~ "%s\n"
+#~ "%s"
+
+#~ msgid "Error while deleting"
+#~ msgstr "ئۆچۈرۈشتە خاتالىق كۆرۈلدى"
+
+#~ msgid "The file \"%s\" cannot be deleted. Details: %s"
+#~ msgstr "ھۆججەت \"%s\" نى ئۆچۈرگىلى بولمىدى. تەپسىلاتى: %s"
+
+#~ msgid "Are you sure you want to permanently delete the %'d selected item?"
+#~ msgid_plural ""
+#~ "Are you sure you want to permanently delete the %'d selected items?"
+#~ msgstr[0] "سىز تاللانغان %'d تۈرنى راستىنىلا مەڭگۈلۈك ئۆچۈرەمسىز؟"
+
+#~ msgid "Unknown Error"
+#~ msgstr "نامەلۇم خاتالىق"
+
+#~ msgid "Cannot move file to trash, do you want to delete immediately?"
+#~ msgstr "ھۆججەتنى ئەخلەتخانىغا يۆتكىيەلمىدى، دەرھال ئۆچۈرەمسىز؟"
+
+#~ msgid "The file \"%s\" cannot be moved to the trash. Details: %s"
+#~ msgstr "ھۆججەت \"%s\" نى ئەخلەت ساندۇقىغا يۆتكىگىلى بولمىدى. تەپسىلاتى: %s"
+
+#~ msgid "Really move all photos and videos to the trash?"
+#~ msgstr "راستلا بارلىق رەسىم ۋە سىنلارنى ئەخلەت ساندۇقىغا يۆتكەمدۇ؟"
+
+#~ msgid "_Move to Trash"
+#~ msgstr "ئەخلەت ساندۇقىغا يۆتكە(_M)"
+
+#~ msgid "Unable to open help file for Cheese"
+#~ msgstr "Cheese نىڭ ياردەمچى ھۆججىتىنى ئاچقىلى بولمىدى"
+
+#~ msgid ""
+#~ "This program is free software; you can redistribute it and/or modify it "
+#~ "under the terms of the GNU General Public License as published by the "
+#~ "Free Software Foundation; either version 2 of the License, or (at your "
+#~ "option) any later version.\n"
+#~ msgstr ""
+#~ "بۇ پروگرامما ئەركىن يۇمشاق دېتال؛ سىز ئەركىن يۇمشاق دېتال ۋەخپىسى "
+#~ "تارقاتقان GNU ئادەتتىكى ئاممىۋى ئىجازەتنامە بويىچە ئۇنى قايتا تارقىتىپ "
+#~ "ياكى ئۆزگەرتەلەيسىز؛ سىز شۇ ئىجازەت كېلىشىمىنىڭ ئىككىنچى نەشرى ياكى "
+#~ "يۇقىرى نەشرىنى ئىشلەتسىڭىز بولىدۇ.\n"
+
+#~ msgid ""
+#~ "This program is distributed in the hope that it will be useful, but "
+#~ "WITHOUT ANY WARRANTY; without even the implied warranty of "
+#~ "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General "
+#~ "Public License for more details.\n"
+#~ msgstr ""
+#~ "بۇ پروگراممىنى تارقىتىشتىكى مەقسەت سىزگە قۇلايلىق ئېلىپ كېلىش، ئەمما سودا "
+#~ "ياكى باشقا ئالاھىدە قوللىنىشقا نىسبەتەن ھېچقانداق كاپالەت يوق.  GNU "
+#~ "ئادەتتىكى ئاممىۋى ئىجازەت كېلىشىمىنى كۆرۈپ تېخىمۇ كۆپ تەپسىلاتقا "
+#~ "ئېرىشىڭ.\n"
+
+#~ msgid ""
+#~ "You should have received a copy of the GNU General Public License along "
+#~ "with this program. If not, see <http://www.gnu.org/licenses/>."
+#~ msgstr ""
+#~ "سىز بۇ پروگرامما بىلەن بىرگە، GNU ئادەتتىكى ئاممىۋى ئىجازەت "
+#~ "ئىجازەتنامىسىدىن بىر نۇسخا تاپشۇرۇۋالىسىز؛ ئەگەر تاپشۇرۇۋالمىغان بولسىڭىز "
+#~ "<http://www.gnu.org/licenses/> غا قاراڭ."
+
+#~ msgid "Mauve"
+#~ msgstr "Mauve"
+
+#~ msgid "Noir/Blanc"
+#~ msgstr "Noir/Blanc"
+
+#~ msgid "Hulk"
+#~ msgstr "Hulk"
+
+#~ msgid "Shagadelic"
+#~ msgstr "Shagadelic"
+
+#~ msgid "Vertigo"
+#~ msgstr "Vertigo"
+
+#~ msgid "Edge"
+#~ msgstr "گىرۋەك"
+
+#~ msgid "Dice"
+#~ msgstr "Dice"
+
+#~ msgid "Warp"
+#~ msgstr "Warp"
+
+#~ msgid "No camera found!"
+#~ msgstr "كامېرا تېپىلمىدى!"
+
+#~ msgid "Please refer to the help for further information."
+#~ msgstr "تېخىمۇ كوپ ئۇچۇرلار ئۈچۈن ياردەم ھۆججەتلىرىگە قاراڭ."
+
+#~ msgid "Help on this Application"
+#~ msgstr "پروگرامما ھەققىدىكى ياردەم"
+
+#~ msgid "_Start Recording"
+#~ msgstr "سىن ئېلىشنى باشلا(_S)"
+
+#~ msgid "Be verbose"
+#~ msgstr "Be verbose"

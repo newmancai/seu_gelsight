@@ -1,0 +1,871 @@
+# Czech translation for cheese help.
+# Copyright (C) 2010 cheese's COPYRIGHT HOLDER
+# This file is distributed under the same license as the cheese help.
+#
+# Lucas Lommer <llommer@svn.gnome.org>, 2010.
+# Martin Jablečník <martin.jablecnik@seznam.cz>, 2012.
+# Marek Černocký <marek@manet.cz>, 2013, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese master\n"
+"POT-Creation-Date: 2014-02-28 04:06+0000\n"
+"PO-Revision-Date: 2014-02-28 08:07+0100\n"
+"Last-Translator: Marek Černocký <marek@manet.cz>\n"
+"Language-Team: Czech <gnome-cs-list@gnome.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Gtranslator 2.91.6\n"
+
+#. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+msgctxt "_"
+msgid "translator-credits"
+msgstr ""
+"Lucas Lommer <llommer@svn.gnome.org>, 2010\n"
+"Martin Jablečník <martin.jablecnik@seznam.cz>, 2012\n"
+"Marek Černocký <marek@manet.cz>, 2013, 2014"
+
+#. (itstool) path: credit/name
+#: C/burst-mode.page:14 C/effects-apply.page:13 C/index.page:12
+#: C/introduction.page:15 C/photo-delete.page:13 C/photo-save.page:13
+#: C/photo-take.page:19 C/photo-view.page:13 C/pref-countdown.page:14
+#: C/pref-flash.page:14 C/pref-image-properties.page:15
+#: C/pref-resolution.page:13 C/video-record.page:14
+msgid "Julita Inca"
+msgstr "Julita Inca"
+
+#. (itstool) path: credit/years
+#: C/burst-mode.page:16 C/effects-apply.page:15 C/index.page:14
+#: C/introduction.page:17 C/photo-delete.page:15 C/photo-save.page:15
+#: C/photo-take.page:21 C/photo-view.page:15 C/pref-countdown.page:16
+#: C/pref-flash.page:16 C/pref-image-properties.page:17
+#: C/pref-resolution.page:15 C/video-record.page:16
+msgid "2011"
+msgstr "2011"
+
+#. (itstool) path: credit/name
+#: C/burst-mode.page:19 C/effects-apply.page:18 C/index.page:17
+#: C/introduction.page:20 C/photo-delete.page:18 C/photo-save.page:18
+#: C/photo-take.page:24 C/photo-view.page:18 C/pref-countdown.page:19
+#: C/pref-flash.page:19 C/pref-fullscreen.page:12
+#: C/pref-image-properties.page:20 C/pref-resolution.page:18
+#: C/video-record.page:19
+msgid "Ekaterina Gerasimova"
+msgstr "Ekaterina Gerasimova"
+
+#. (itstool) path: credit/years
+#: C/burst-mode.page:21
+msgid "2011, 2013"
+msgstr "2011, 2013"
+
+#. (itstool) path: info/desc
+#: C/burst-mode.page:26
+msgid ""
+"Capture several photos with one button press in <gui>Burst</gui> mode. "
+"Change your pose in between each shot!"
+msgstr ""
+"Pořiďte několik snímků jediným zmáčknutím tlačítka v režimu <gui>snímání v "
+"sérii</gui>. Mezi každým snímkem změňte svoji pózu!"
+
+#. (itstool) path: page/title
+#: C/burst-mode.page:29
+msgid "Take photos in quick succession"
+msgstr "Jak pořídit <gui>sérii</gui> několika snímků v rychlém sledu"
+
+#. (itstool) path: page/p
+#: C/burst-mode.page:31
+msgid ""
+"Use <gui>Burst</gui> mode to automatically take several photos in a row. It "
+"is particularly fun if you change your pose in between photos! To use "
+"<gui>Burst</gui> mode:"
+msgstr ""
+"Použijte režim <gui>série snímků</gui> k automatickému pořízení několik "
+"snímků v řadě. To je obzvlášť zábavné, když mezi snímky měníte svou polohu a "
+"výraz! Pro použití režimu <gui>série snímků</gui>:"
+
+#. (itstool) path: item/p
+#: C/burst-mode.page:37
+msgid ""
+"Make sure that you are in <gui>Burst</gui> mode. If you are, the <gui style="
+"\"button\">Burst</gui> button will be selected on the left side of the "
+"screen."
+msgstr ""
+"Ujistěte se, že jste přepnutí v režimu <gui>snímání v sérii</gui>. Pokud "
+"tomu tak je, je vybráno tlačítko <gui style=\"button\">Série</gui> po levé "
+"straně obrazovky."
+
+#. (itstool) path: item/p
+#: C/burst-mode.page:42
+msgid ""
+"Click the <gui style=\"button\">Take multiple photos using a webcam</gui> "
+"button in the middle of the bottom panel, or press the <key>Space</key> key, "
+"to start taking photos."
+msgstr ""
+"Klikněte na tlačítko <gui style=\"button\">Pořídit více snímků pomocí webové "
+"kamery</gui> uprostřed spodního panelu nebo zmáčkněte <key>mezerník</key> a "
+"spustí se snímání."
+
+#. (itstool) path: item/p
+#: C/burst-mode.page:45
+msgid ""
+"By default, four photos will be taken, with a one second delay and a "
+"countdown between photos."
+msgstr ""
+"Standardně je nastaveno pořízení čtyř snímků s prodlevou jedné sekundy a "
+"odpočítáváním mezi snímky."
+
+#. (itstool) path: item/p
+#: C/burst-mode.page:49 C/video-record.page:45
+msgid ""
+"To stop recording, press the same button again. You can also press the "
+"<key>Esc</key> or <key>Space</key> key to stop recording."
+msgstr ""
+"Pro ukončení snímání zmáčkněte to samé tlačítko znovu. Můžete také použít "
+"klávesu <key>Esc</key> nebo <key>mezerník</key>."
+
+#. (itstool) path: section/title
+#: C/burst-mode.page:55
+msgid "Change <gui>Burst</gui> preferences"
+msgstr "Změna předvoleb <gui>série snímků</gui>"
+
+#. (itstool) path: section/p
+#: C/burst-mode.page:57
+msgid ""
+"You can change how many photos will be taken in each burst and the length of "
+"the delay between the photos:"
+msgstr ""
+"Množství pořizovaných snímků v sérii a prodlevu mezi nimi můžete změnit:"
+
+#. (itstool) path: item/p
+#: C/burst-mode.page:62
+msgid ""
+"Select <guiseq><gui style=\"menu\">Cheese</gui><gui style=\"menuitem"
+"\">Preferences</gui><gui style=\"tab\">Capture</gui></guiseq>."
+msgstr ""
+"Vyberte <guiseq><gui style=\"menu\">Cheese</gui> <gui style=\"menuitem"
+"\">Předvolby</gui> <gui style=\"tab\">Snímání</gui></guiseq>."
+
+#. (itstool) path: item/p
+#: C/burst-mode.page:66
+msgid "Edit the preference settings:"
+msgstr "Upravte nastavení předvoleb:"
+
+#. (itstool) path: item/title
+#: C/burst-mode.page:69
+msgid "Countdown"
+msgstr "Odpočet"
+
+#. (itstool) path: item/p
+#: C/burst-mode.page:70
+msgid "Countdown from three before the photo is taken."
+msgstr "Odpočítávání od tří do okamžiku pořízení snímku."
+
+#. (itstool) path: item/title
+#: C/burst-mode.page:73
+msgid "Fire flash"
+msgstr "Spustit blesk"
+
+#. (itstool) path: item/p
+#: C/burst-mode.page:74
+msgid "Your screen will flash when a photo is taken."
+msgstr "Při pořizování smímku obrazovka bíle zableskne."
+
+#. (itstool) path: item/title
+#: C/burst-mode.page:77
+msgid "Number of photos"
+msgstr "Počet snímků"
+
+#. (itstool) path: item/p
+#: C/burst-mode.page:78
+msgid "The number of photos that will be taken in a single burst."
+msgstr "Počet snímků, které se pořídí v jedné sérii."
+
+#. (itstool) path: item/title
+#: C/burst-mode.page:81
+msgid "Delay between photos (seconds)"
+msgstr "Prodleva mezi snímky (v sekundách)"
+
+#. (itstool) path: item/p
+#: C/burst-mode.page:82
+msgid ""
+"The delay between two photos. If you have the <gui>Countdown</gui> enabled, "
+"then this delay needs to be set to over four seconds for it to have any "
+"effect."
+msgstr ""
+"Prodleva mezi dvěma fotkami. Pokud máte zapnuto <gui>odpočítávání</gui>, "
+"musí být prodleva nastavena na více než čtyři sekundy, aby se projevila."
+
+#. (itstool) path: info/desc
+#: C/effects-apply.page:24
+msgid ""
+"Add fun effects to your photos and videos, like turning yourself green or "
+"distorting the picture like a funhouse mirror."
+msgstr ""
+"Přidejte zábavné efekty ke svým snímkům a videím, třeba změnu barev nebo "
+"deformaci obrazu jak v zakřiveném zrcadle."
+
+#. (itstool) path: page/title
+#: C/effects-apply.page:28
+msgid "Apply effects to photos and videos"
+msgstr "Jak použít na snímky a videa efekty"
+
+#. (itstool) path: page/p
+#: C/effects-apply.page:30
+msgid "You can apply fun, interesting effects to your photos and videos:"
+msgstr "Na své snímky a videa můžete použít zábavné a zajímavé efekty:"
+
+#. (itstool) path: item/p
+#: C/effects-apply.page:34
+msgid "Click <gui style=\"button\">Effects</gui>."
+msgstr "Klikněte na <gui style=\"button\">Efekty</gui>."
+
+#. (itstool) path: item/p
+#: C/effects-apply.page:37
+msgid ""
+"Select the effect you want to use by clicking one of the options or select "
+"<gui>No Effect</gui> if you don't want to use one."
+msgstr ""
+"Vyberte efekt, který chcete použít, kliknutím na jednu z možností, nebo "
+"vyberte <gui>Bez efektů</gui>, pokud nechcete použít žádný."
+
+#. (itstool) path: page/p
+#: C/effects-apply.page:42
+msgid ""
+"<app>Cheese</app> offers 35 effects, of which only 9 are shown on the first "
+"page. Click the back and forward arrows next to <gui style=\"button"
+"\">Effects</gui> to navigate to the other pages."
+msgstr ""
+"<app>Cheese</app> nabízí 35 efektů, z kterých je pouze 9 zobrazeno na první "
+"stránce. Pro zobrazení dalších efektů klikněte na šipky zpět nebo vpřed "
+"vedle tlačítka <gui style=\"button\">Efekty</gui> ."
+
+#. (itstool) path: figure/title
+#: C/effects-apply.page:47
+msgid ""
+"Some of the effects, from left to right: Sepia, Shagadelic, Sobel (first "
+"row), Waveform, X-Ray, Warp (second row)"
+msgstr ""
+"Některé z efektů, zleva doprava: Sépiová, Shagadelic, Kontury (první řádek), "
+"Osciloskop, Rentgen, Deformace (druhý řádek)"
+
+#. (itstool) path: info/desc
+#: C/index.page:23
+msgid ""
+"Cheese lets you take photos and videos using your webcam. You can even add "
+"special effects!"
+msgstr ""
+"Cheese umožňuje pořizovat snímky a videa pomocí webové kamery. Můžete také "
+"přidat speciální efekty!"
+
+#. (itstool) path: page/title
+#: C/index.page:28
+msgid "<_:media-1/> Cheese Webcam Application"
+msgstr "<_:media-1/> Fotobudka Cheese"
+
+#. (itstool) path: section/title
+#: C/index.page:33
+msgid "Main features"
+msgstr "Hlavní funkce"
+
+#. (itstool) path: section/title
+#: C/index.page:37
+msgid "Preferences"
+msgstr "Předvolby"
+
+#. (itstool) path: section/title
+#: C/index.page:41
+msgid "Common problems and questions"
+msgstr "Běžné problémy a dotazy"
+
+#. (itstool) path: info/desc
+#: C/introduction.page:26
+msgid "Introduction to the <app>Cheese</app> webcam application."
+msgstr "Úvod do aplikace <app>Cheese</app> pro webovou kameru."
+
+#. (itstool) path: page/title
+#: C/introduction.page:29
+msgid "Introduction"
+msgstr "Úvod"
+
+#. (itstool) path: page/p
+#: C/introduction.page:31
+msgid ""
+"<app>Cheese</app> is a webcam application that lets you take photos and "
+"record videos using your webcam. You can take multiple photos in quick "
+"succession using the <link xref=\"burst-mode\"><gui>Burst</gui> mode</link> "
+"and apply <link xref=\"effects-apply\">special <gui>Effects</gui></link> to "
+"add a personal touch to them."
+msgstr ""
+"<app>Cheese</app> je aplikace pro práci s webovou kamerou, díky které můžete "
+"pořizovat snímky a nahrávat video ze svojí webkamery. Můžete pořídit sérii "
+"fotek v rychlém sledu pomocí <link xref=\"burst-mode\">režimu <gui>Série "
+"snímků</gui></link> a použít <link xref=\"effects-apply\">speciální "
+"<gui>Efekty</gui></link>, které dají snímkům osobitý ráz."
+
+#. (itstool) path: page/p
+#: C/introduction.page:37
+msgid ""
+"By default, <app>Cheese</app> starts in <gui>Photo</gui> mode, ready to "
+"<link xref=\"photo-take\">take a photo</link>. You need to switch to "
+"<gui>Video</gui> mode to <link xref=\"video-record\">record a video</link>."
+msgstr ""
+"Standardně aplikace <app>Cheese</app> začíná v režimu <gui>Fotka</gui>, "
+"připravena <link xref=\"take-photo\">pořídit snímek</link>. Pro <link xref="
+"\"record-video\">nahrávání videa</link> se musíte přepnout do režimu "
+"<gui>Video</gui>."
+
+#. (itstool) path: page/p
+#: C/introduction.page:41
+msgid ""
+"<app>Cheese</app> works with most webcams, but some older webcams may not be "
+"supported."
+msgstr ""
+"<app>Cheese</app> umí pracovat s většinou webových kamer, přesto některé, "
+"hlavně starší, modely nemusí být podporovány."
+
+#. (itstool) path: p/link
+#: C/legal.xml:5
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+msgstr "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+
+#. (itstool) path: license/p
+#: C/legal.xml:4
+msgid "This work is licensed under a <_:link-1/>."
+msgstr "Tato práce je licencována pod <_:link-1/>."
+
+#. (itstool) path: info/desc
+#: C/photo-delete.page:24
+msgid "Remove photos and videos that you no longer want to keep."
+msgstr "Odstraňte snímky a videa, které už nechcete dále uchovávat."
+
+#. (itstool) path: page/title
+#: C/photo-delete.page:27
+msgid "Delete a photo or video"
+msgstr "Jak snímek či video smazat"
+
+#. (itstool) path: page/p
+#: C/photo-delete.page:29
+msgid "If you no longer want a photo or video, you can permanently delete it:"
+msgstr ""
+"Jestliže už nechcete dále uchovávat snímek nebo video, můžete ho trvale "
+"smazat:"
+
+#. (itstool) path: item/p
+#: C/photo-delete.page:33
+msgid ""
+"Find the photo or video that you want to delete in the photo stream at the "
+"bottom of the <app>Cheese</app> window."
+msgstr ""
+"Najděte snímek nebo video, které chcete smazat, v panelu snímků ve spodní "
+"části okna <app>Cheese</app>."
+
+#. (itstool) path: item/p
+#: C/photo-delete.page:37
+msgid "Right-click it and select <gui>Delete</gui>."
+msgstr "Klikněte pravým tlačítkem a vyberte <gui>Smazat</gui>."
+
+#. (itstool) path: item/p
+#: C/photo-delete.page:41
+msgid ""
+"You will be asked if you want to permanently delete it. Confirm by clicking "
+"<gui>Delete</gui>; you will not be able to recover the photo or video."
+msgstr ""
+"Budete dotázáni, jestli jej opravdu chcete smazat. Potvrďte kliknutím na "
+"<gui>Smazat</gui>. Pozor, smazání je trvalé a fotka nebo video již nepůjde "
+"vrátit zpět."
+
+#. (itstool) path: page/p
+#: C/photo-delete.page:47
+msgid ""
+"If you are not sure whether you want to permanently delete the photo or "
+"video, you can right click it and select <gui>Move to Trash</gui> instead. "
+"This will move it to the computer's <gui>Trash</gui> folder."
+msgstr ""
+"Jestli si nejste jisti, zda chcete snímek nebo video smazat trvale, můžete "
+"po kliknutí pravým tlačítkem vybrat <gui>Přesunout do koše</gui>. Tak bude "
+"odpovídající soubor přesunut do složky <gui>Odpadkový koš</gui>"
+
+#. (itstool) path: note/p
+#: C/photo-delete.page:52
+msgid ""
+"Cheese does not have its own <gui>Trash</gui> folder and you cannot access "
+"your computer's <gui>Trash</gui> folder from within <app>Cheese</app>."
+msgstr ""
+"Cheese nemá vlastní složku <gui>Odpadkový koš</gui> a do složky "
+"<gui>Odpadkový koš</gui> vašeho počitače není z aplikace <app>Cheese</app> "
+"přímý přístup."
+
+#. (itstool) path: info/desc
+#: C/photo-save.page:24
+msgid "Save a photo or video to a different folder."
+msgstr "Uložte si snímek nebo video do jiné složky."
+
+#. (itstool) path: page/title
+#: C/photo-save.page:27
+msgid "Save a photo or video"
+msgstr "Jak snímek či video uložit"
+
+#. (itstool) path: page/p
+#: C/photo-save.page:29
+msgid ""
+"By default, Cheese saves the photos and videos in the <file>Pictures/Webcam</"
+"file> and <file>Videos/Webcam</file> folders in your user folder."
+msgstr ""
+"Standardně Cheese ukládá snímky a videa do složky <file>Obrázky/Webcam</"
+"file> a <file>Videa/Webcam</file> ve vaší domovské složce."
+
+#. (itstool) path: page/p
+#: C/photo-save.page:33
+msgid ""
+"To save an image to a different location, right-click the image in the photo "
+"stream and click <gui>Save As…</gui>. Then, choose where you want to save "
+"the image."
+msgstr ""
+"Pro uložení obrázku na jiné místo, klikněte na obrázek pravým tlačítkem v "
+"panelu snímků a klikněte na <gui>Uložit jako…</gui> Pak vyberte, kam chcete "
+"soubor uložit."
+
+#. (itstool) path: page/p
+#: C/photo-save.page:37
+msgid ""
+"A new copy of the image will be saved in the new location. The old version "
+"will remain in the <file>Pictures/Webcam</file> or <file>Videos/Webcam</"
+"file> folder."
+msgstr ""
+"Na novém místě se uloží nová kopie. Stará verze zůstane ve složce "
+"<file>Obrázky/Webcam</file> nebo <file>Videa/Webcam</file>."
+
+#. (itstool) path: info/desc
+#: C/photo-take.page:30
+msgid "Use your webcam to take photos instead of videos."
+msgstr "Použijte svoji webovou kameru k pořízení snímků místo videí."
+
+#. (itstool) path: page/title
+#: C/photo-take.page:33
+msgid "Take photos"
+msgstr "Jak pořídit fotky"
+
+#. (itstool) path: page/p
+#: C/photo-take.page:35
+msgid ""
+"Webcams can be used to take still photos as well as videos. To take a photo:"
+msgstr ""
+"Webové kamery mohou být použity k pořízení statických fotografií stejně "
+"dobře, jako k nahrávání videí. Když chcete pořídit snímek:"
+
+#. (itstool) path: item/p
+#: C/photo-take.page:40
+msgid ""
+"Make sure that you are in <gui>Photo</gui> mode. If you are, the <gui style="
+"\"button\">Photo</gui> button will be selected on the left side of the "
+"screen."
+msgstr ""
+"Ujistěte se, že jste přepnutí v režimu <gui>fotek</gui>. Pokud tomu tak je, "
+"je vybráno tlačítko <gui style=\"button\">Fotka</gui> po levé straně "
+"obrazovky."
+
+#. (itstool) path: item/p
+#: C/photo-take.page:45
+msgid ""
+"Click the <gui style=\"button\">Take a photo using a webcam</gui> button in "
+"the middle of the bottom panel, or press the <key>Space</key> key, to take "
+"the photo."
+msgstr ""
+"Klikněte na tlačítko <gui style=\"button\">Pořídit fotku pomocí webové "
+"kamery</gui> uprostřed spodního panelu nebo zmáčkněte <key>mezerník</key> a "
+"pořídí se snímek."
+
+#. (itstool) path: item/p
+#: C/photo-take.page:50
+msgid ""
+"There will be a short countdown, followed by a flash, and the photo will "
+"appear in the photo stream."
+msgstr ""
+"Proběhne krátké odpočítávání, následované bleskem, a pak se snímek objeví v "
+"panelu snímků ve spodní části okna."
+
+#. (itstool) path: page/p
+#: C/photo-take.page:55
+msgid ""
+"The photos in the photo stream are automatically saved in the <file>Pictures/"
+"Webcam</file> folder in your home folder. They are saved using the JPEG "
+"(<file>.jpg</file>) format."
+msgstr ""
+"Fotky v panelu fotek jsou automaticky ukládány do složky <file>Obrázky/"
+"Webcam</file> ve vaší domovské složce. Formát ukládání je JPEG (<file>.jpg</"
+"file>)."
+
+#. (itstool) path: page/p
+#: C/photo-take.page:59
+msgid ""
+"To cancel taking a photo after you have clicked <gui>Take a Photo</gui>, "
+"press <key>Esc</key> before the countdown finishes."
+msgstr ""
+"Pro zrušení pořizení snímku po kliknutí na <gui>Pořídit snímek</gui>, "
+"zmáčkněte před koncem odpočítávání <key>Esc</key>."
+
+#. (itstool) path: note/p
+#: C/photo-take.page:63
+msgid ""
+"To take multiple photos in rapid succession, use <link xref=\"burst-mode"
+"\"><gui>Burst</gui> mode</link>."
+msgstr ""
+"Pro pořízení více snímků v rychlém sledu, použijte <link xref=\"burst-mode"
+"\">režim <gui>Série snímků</gui></link>."
+
+#. (itstool) path: info/desc
+#: C/photo-view.page:24
+msgid "Photos and videos will automatically appear in the photo stream."
+msgstr "Snímky a videa se automaticky objeví v panelu snímků."
+
+#. (itstool) path: page/title
+#: C/photo-view.page:29
+msgid "View a photo or video that you took"
+msgstr "Jak si prohlédnout pořízené snímky a videa"
+
+#. (itstool) path: page/p
+#: C/photo-view.page:31
+msgid ""
+"After you take a photo or record a video, it will appear in the photo stream "
+"at the bottom of the window. You can right-click it and press <gui style="
+"\"menuitem\">Open</gui> to open it in the photo viewer or video player "
+"application."
+msgstr ""
+"Po pořízení snímku nebo nahrání videa se fotka či video objeví v panelu "
+"snímků ve spodní části okna. Můžete na něj kliknout pravým tlačítkem a "
+"zmáčknout <gui style=\"menuitem\">Otevřít</gui>. Tím jej otevřete v prohlížeči "
+"fotografií nebo přehrávači videa."
+
+#. (itstool) path: page/p
+#: C/photo-view.page:41
+msgid ""
+"All of the photos and videos in the photo stream are saved in the "
+"<file>Pictures/Webcam</file> or <file>Videos/Webcam</file> folders in your "
+"user folder."
+msgstr ""
+"Všechny snímky a videa v panelu snímků máte uloženy ve složce <file>Obrázky/"
+"Webcam</file> nebo <file>Videa/Webcam</file> ve své domovské složce."
+
+#. (itstool) path: info/desc
+#: C/pref-countdown.page:25
+msgid "Remove the countdown so that photos are taken instantly."
+msgstr "Zrušte odpočítávání, aby se snímky pořizovaly okamžitě."
+
+#. (itstool) path: page/title
+#: C/pref-countdown.page:28
+msgid "Disable the <gui>Countdown</gui>"
+msgstr "Jak zrušit <gui>odpočítávání</gui>"
+
+#. (itstool) path: page/p
+#: C/pref-countdown.page:30
+msgid ""
+"By default, <app>Cheese</app> counts down from three before taking a photo. "
+"You can disable this feature by selecting <guiseq><gui>Cheese</"
+"gui><gui>Preferences</gui><gui>Capture</gui></guiseq> and unchecking "
+"<gui>Countdown</gui>."
+msgstr ""
+"<app>Cheese</app> s výchozím nastavením provádí před pořízením snímku "
+"odpočítávání. To můžete vypnout tak, že vyberete <guiseq><gui>Cheese</"
+"gui><gui>Předvolby</gui><gui>Snímání</gui></guiseq> a zrušíte zaškrtnutí "
+"políčka <gui>Odpočítávání</gui>."
+
+#. (itstool) path: info/desc
+#: C/pref-flash.page:25
+msgid "Stop the screen from flashing white when taking a photo."
+msgstr "Vypněte bílý záblesk během pořízování snímku"
+
+#. (itstool) path: page/title
+#: C/pref-flash.page:28
+msgid "Disable the flash"
+msgstr "Jak vypnout blesk"
+
+#. (itstool) path: page/p
+#: C/pref-flash.page:30
+msgid ""
+"When you take a photo with Cheese, the computer screen briefly turns white."
+msgstr ""
+"Když s aplikací Cheese pořizujete snímek, tak počítačová obrazovka na chvíli "
+"zbělá."
+
+#. (itstool) path: page/p
+#: C/pref-flash.page:33
+msgid ""
+"To disable this feature, select <guiseq><gui>Cheese</gui><gui>Preferences</"
+"gui><gui>Capture</gui></guiseq> and uncheck <gui>Fire flash</gui>."
+msgstr ""
+"Tuto funkci můžet vypnout tak, že vyberte <guiseq><gui>Cheese</"
+"gui><gui>Předvolby</gui><gui>Snímání</gui></guiseq> a zrušíte zaškrtnutí "
+"políčka <gui>Spusit blesk</gui>."
+
+#. (itstool) path: info/desc
+#: C/pref-fullscreen.page:18
+msgid "Enable and disable fullscreen mode"
+msgstr "Zapněte nebo vypněte režim celé obrazovky"
+
+#. (itstool) path: page/title
+#: C/pref-fullscreen.page:21
+msgid "Fullscreen"
+msgstr "Celá obrazovka"
+
+#. (itstool) path: page/p
+#: C/pref-fullscreen.page:23
+msgid "To enable or disable the fullscreen mode:"
+msgstr "Když chcete vypnout nebo zapnout režim celé obrazovky:"
+
+#. (itstool) path: item/p
+#: C/pref-fullscreen.page:26
+msgid "Select <guiseq><gui>Cheese</gui><gui>Fullscreen</gui></guiseq>"
+msgstr "Vyberte <guiseq><gui>Cheese</gui><gui>Celá obrazovka</gui></guiseq>"
+
+#. (itstool) path: page/p
+#: C/pref-fullscreen.page:29
+msgid ""
+"If you cannot see the <gui style=\"menu\">Cheese</gui> menu in fullscreen "
+"mode, move your mouse or tap your touchscreen."
+msgstr ""
+"Pokud v režimu celé obrazovky nevidíte nabídku <gui style=\"menu\">Cheese</"
+"gui>, pohněte myší nebo klepněte na svou dotykovou obrazovku."
+
+#. (itstool) path: note/p
+#: C/pref-fullscreen.page:33
+msgid ""
+"You can also enable and disable fullscreen mode by pressing <key>F11</key>."
+msgstr ""
+"Režim celé obrazovky můžete zapnout nebo vypnout také zmáčknutím <key>F11</"
+"key>."
+
+#. (itstool) path: info/desc
+#: C/pref-image-properties.page:26
+msgid ""
+"Adjust the saturation, contrast, brightness and hue to make photos and "
+"videos look better."
+msgstr ""
+"Přizpůsobte si sytost barev, kontrast, jas a odstín pro lepší snímky a videa"
+
+#. (itstool) path: page/title
+#: C/pref-image-properties.page:29
+msgid "My photos and videos look wrong"
+msgstr "Moje snímky a videa vypadají hrozně"
+
+#. (itstool) path: page/p
+#: C/pref-image-properties.page:31
+msgid ""
+"If your photos or videos are too dark or the colors seem to be wrong, try "
+"adjusting their saturation, contrast, brightness and hue:"
+msgstr ""
+"Jestliže jsou vaše snímky nebo videa moc tmavé nebo mají nesprávné barvy, "
+"zkuste u nich upravit sytost barev, kontrast, jas a odstín:"
+
+#. (itstool) path: item/p
+#: C/pref-image-properties.page:36
+msgid ""
+"Select <guiseq><gui>Cheese</gui><gui>Preferences</gui><gui>Image</gui></"
+"guiseq>."
+msgstr ""
+"Vyberte <guiseq><gui>Cheese</gui><gui>Předvolby</gui><gui>Obraz</gui></"
+"guiseq>."
+
+#. (itstool) path: item/p
+#: C/pref-image-properties.page:40
+msgid "Move the sliders to find the best settings for your webcam."
+msgstr "Použijte táhla k nalezení nejlepšího nastavení své webové kamery."
+
+#. (itstool) path: item/p
+#: C/pref-image-properties.page:43
+msgid "Click <gui>Close</gui> and check to see if the preview looks better."
+msgstr ""
+"Klikněte na <gui>Zavřít</gui> a ujistěte se, jestli to vypadá lépe než před "
+"tím."
+
+#. (itstool) path: figure/title
+#: C/pref-image-properties.page:49
+msgid ""
+"Different options under <gui>Image properties</gui> (left to right): "
+"applying brightness, contrast, hue and saturation"
+msgstr ""
+"Různé nastavení pod položkou <gui>Obraz</gui> (zleva do prava): použití "
+"jasu, kontrastu, odstínu a sytosti barev"
+
+#. (itstool) path: item/title
+#: C/pref-image-properties.page:56
+msgid "Brightness"
+msgstr "Jas"
+
+#. (itstool) path: item/p
+#: C/pref-image-properties.page:57
+msgid ""
+"Increasing the brightness will make the photos and videos lighter. However, "
+"if you are in a dark room, increasing the brightness might make the image "
+"look more noisy."
+msgstr ""
+"S vyšším jasem vytvoříme snímky a videa prosvětlenější. Pokud jste však v "
+"tmavé místnosti, může zvýšení jasu způsobit v obrazu větší šum."
+
+#. (itstool) path: item/title
+#: C/pref-image-properties.page:62
+msgid "Contrast"
+msgstr "Kontrast"
+
+#. (itstool) path: item/p
+#: C/pref-image-properties.page:63
+msgid ""
+"Setting a higher contrast will increase the difference between darker and "
+"lighter colors. If the image looks washed out, try increasing the contrast."
+msgstr ""
+"Nastavením vyššího kontrastu vzroste rozdíl mezi tmavými a světlými barvami. "
+"Jestliže obraz vypadá mdle, zkuste zvýšit kontrast."
+
+#. (itstool) path: item/title
+#: C/pref-image-properties.page:68
+msgid "Hue"
+msgstr "Odstín"
+
+#. (itstool) path: item/p
+#: C/pref-image-properties.page:69
+msgid ""
+"Changing the hue of the image will add a tint to it. If image seems to be "
+"the wrong color (for example, too yellow), try changing the hue."
+msgstr ""
+"Změnou odstínu obrazu změníte tónování barev. Pokud má obraz nesprávné barvy "
+"(například moc žluté), zkuste změnit odstín."
+
+#. (itstool) path: item/title
+#: C/pref-image-properties.page:73
+msgid "Saturation"
+msgstr "Sytost barev"
+
+#. (itstool) path: item/p
+#: C/pref-image-properties.page:74
+msgid ""
+"Reducing the saturation makes the image less colorful. If colors seem too "
+"harsh, reduce the saturation."
+msgstr ""
+"Snižováním sytosti vytváříte obraz s menším důrazem barev. Jestliže jsou "
+"barvy moc ostré, snižte sytost barev."
+
+#. (itstool) path: info/desc
+#: C/pref-resolution.page:24
+msgid ""
+"The resolution of a video or photo determines how much detail you can see in "
+"it, changing it will affect the file size."
+msgstr ""
+"Rozlišení videa nebo snímku určuje, kolik detailů na něm můžeme vidět. "
+"Změnou rozlišení ovlivníme velikost souboru."
+
+#. (itstool) path: page/title
+#: C/pref-resolution.page:29
+msgid "Change the capture resolution of your webcam"
+msgstr "Jak změnit rozlišení snímání webkamery"
+
+#. (itstool) path: page/p
+#: C/pref-resolution.page:31
+msgid ""
+"Higher resolution generally means better quality images, but photos and "
+"videos with higher resolution take up more space on your hard disk. High "
+"resolution videos, in particular, take up a lot of space."
+msgstr ""
+"Vyšší rozlišení hlavně znamená lepší kvalitu obrazu, ale snímky a videa s "
+"vyšším rozlišením zabírají více místa na disku. Zejména videa s vysokým "
+"rozlišením zaberou hodně místa"
+
+#. (itstool) path: page/p
+#: C/pref-resolution.page:35
+msgid ""
+"If you want your images to take up less disk space, reduce the resolution of "
+"your webcam. If you want better quality images, increase the resolution. To "
+"change the webcam resolution:"
+msgstr ""
+"Jestli chcete, aby vaše snímky zabíraly méně místa na disku, snižte "
+"rozlišení své webové kamery. Jesli chcete lepší kvalitu snímků, rozlišení "
+"zvyšte. Změnu rozlišení provedete následovně:"
+
+#. (itstool) path: item/p
+#: C/pref-resolution.page:41
+msgid ""
+"Select <guiseq><gui>Cheese</gui><gui>Preferences</gui><gui>Webcam</gui></"
+"guiseq>."
+msgstr ""
+"Vyberte <guiseq><gui>Cheese</gui><gui>Předvolby</gui><gui>Webkamera</gui></"
+"guiseq>."
+
+#. (itstool) path: item/p
+#: C/pref-resolution.page:45
+msgid ""
+"Choose a different resolution from the drop-down list. Some webcams only "
+"support one resolution, so you may not have a choice."
+msgstr ""
+"Zvolte jiné rozlišení z rozbalovací nabídky. Některé webové kamery poskytují "
+"pouze jedno rozlišení, takže možná nebudete mít nic na výběr."
+
+#. (itstool) path: item/p
+#: C/pref-resolution.page:49
+msgid "Press <gui>Close</gui>."
+msgstr "Zmáčkněte <gui>Zavřít</gui>."
+
+#. (itstool) path: info/desc
+#: C/video-record.page:25
+msgid "Use your webcam to record short movies for sharing with friends."
+msgstr ""
+"Použijte svou webovou kameru k zaznamenání krátkých filmů a sdílejte je se "
+"svými přáteli."
+
+#. (itstool) path: page/title
+#: C/video-record.page:29
+msgid "Record a video"
+msgstr "Jak nahrávat video"
+
+#. (itstool) path: page/p
+#: C/video-record.page:31
+msgid "To record a video using your webcam:"
+msgstr "Když chcete svoji webovou kamerou nahrát video:"
+
+#. (itstool) path: item/p
+#: C/video-record.page:35
+msgid ""
+"Make sure that you are in <gui>Video</gui> mode. If you are, the <gui style="
+"\"button\">Video</gui> button will be selected on the left side of the "
+"screen."
+msgstr ""
+"Ujistěte se, že jste v režimu <gui>video</gui>. Pokud jste, bude po levé "
+"straně obrazovky vybráno tlačítko <gui style=\"button\">Video</gui>."
+
+#. (itstool) path: item/p
+#: C/video-record.page:40
+msgid ""
+"Click the <gui style=\"button\">Record a video using a webcam</gui> button "
+"in the middle of the bottom panel, or press the <key>Space</key> key, to "
+"start recording the video."
+msgstr ""
+"Klikněte na tlačítko <gui style=\"button\">Nahrát video pomocí webové "
+"kamery</gui> uprostřed spodního panelu nebo zmáčkněte <key>mezerník</key> a "
+"video se začne nahrávat."
+
+#. (itstool) path: page/p
+#: C/video-record.page:50
+msgid "Videos are saved in the WebM (<file>.webm</file>) format."
+msgstr "Videa jsou ukládána ve formátu WebM (<file>.webm</file>)."
+
+#. (itstool) path: page/p
+#: C/video-record.page:52
+msgid ""
+"After you have stopped recording, the video will automatically appear in the "
+"photo stream at the bottom of the <app>Cheese</app> window. From there, you "
+"can <link xref=\"photo-view\">open</link> or delete the video."
+msgstr ""
+"Po zastavení nahrávání se video automaticky objeví v panelu snímků ve spodní "
+"části okna <app>Cheese</app>. Odtud jej můžete <link xref=\"photo-view"
+"\">otevřít</link> nebo smazat."
+
+#. (itstool) path: page/p
+#: C/video-record.page:56
+msgid ""
+"If you have problems sharing a video with people using other operating "
+"systems (like Windows or Mac OS), you may need to <link href=\"help:gnome-"
+"help/video-sending\">convert it to a different format</link>."
+msgstr ""
+"V případě, že máte problémy se sdílením videa s lidmi užívající jiný "
+"operační systém (například Windows nebo Mac OS), můžete <link href=\"help:"
+"gnome-help/video-sending\">jej převést do jiného formátu</link>."

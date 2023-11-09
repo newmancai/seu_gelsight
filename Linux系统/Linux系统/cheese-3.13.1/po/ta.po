@@ -1,0 +1,911 @@
+# translation of cheese.master.ta.po to Tamil
+# translation of cheese.HEAD.ta.po to
+# translation of cheese.HEAD.po to
+# Tamil translation for GNOME Cheese.
+# Copyright (C) 2008 Project Cheese.
+# This file is distributed under the same license as the Cheese package.
+#
+# Shantha kumar <shkumar@redhat.com>
+# Kannan Subramanian <skmessage@gmail.com>, 2008.
+# Shakthi Kannan <shakthimaan@gmail.com>, 2008.
+# I. Felix <ifelix@redhat.com>, 2008, 2009.
+# Dr.T.vasudevan <agnihot3@gmail.com>, 2009.
+# Dr.T.Vasudevan <agnihot3@gmail.com>, 2009, 2010, 2012.
+# Shantha kumar <shkumar@redhat.com>, 2012, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese.master.ta\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=cheese&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2013-11-13 09:48+0000\n"
+"PO-Revision-Date: 2013-11-20 12:02+0630\n"
+"Last-Translator: Shantha kumar <shkumar@redhat.com>\n"
+"Language-Team: American English <>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\\n"
+";\n"
+
+#: ../data/cheese-appmenu.ui.h:1
+msgid "_Fullscreen"
+msgstr "முழுத்திரை (_F)"
+
+#: ../data/cheese-appmenu.ui.h:2
+msgid "P_references"
+msgstr "(_r) விருப்பங்கள்"
+
+#: ../data/cheese-appmenu.ui.h:3 ../data/cheese-prefs.ui.h:18
+msgid "_Help"
+msgstr "உதவி (_H)"
+
+#: ../data/cheese-appmenu.ui.h:4
+msgid "_About"
+msgstr "பற்றி (_A)"
+
+#: ../data/cheese-appmenu.ui.h:5
+msgid "_Quit"
+msgstr "வெளியேறு (_Q)"
+
+#: ../data/cheese-main-window.ui.h:1 ../libcheese/cheese-avatar-chooser.c:99
+#: ../src/cheese-window.vala:1276
+msgid "Take a Photo"
+msgstr "ஒரு போட்டோ எடுக்கவும் "
+
+#: ../data/cheese-main-window.ui.h:2
+msgid "Photo mode"
+msgstr "போட்டோ முறைமை"
+
+#: ../data/cheese-main-window.ui.h:3
+msgid "Photo"
+msgstr "புகைப்படம்"
+
+#: ../data/cheese-main-window.ui.h:4
+msgid "Video mode"
+msgstr "வீடியோ முறைமை"
+
+#: ../data/cheese-main-window.ui.h:5
+msgid "Video"
+msgstr "வீடியோ"
+
+#: ../data/cheese-main-window.ui.h:6
+msgid "Photo burst mode"
+msgstr "புகைப்பட வெடிப்பு முறைமை"
+
+#: ../data/cheese-main-window.ui.h:7
+msgid "Burst"
+msgstr "தொடர் படமெடுப்பு"
+
+#: ../data/cheese-main-window.ui.h:8 ../src/cheese-window.vala:1247
+msgid "Take a photo using a webcam"
+msgstr "வெப்கேமைப் பயன்படுத்தி ஒரு புகைப்படம் எடுக்கவும்"
+
+#: ../data/cheese-main-window.ui.h:9
+msgid "Navigate to the previous page of effects"
+msgstr "விளைவுகளின் முந்தைய பக்கத்திற்குச் செல்லவும்"
+
+#: ../data/cheese-main-window.ui.h:10
+msgid "Effects"
+msgstr "விளைவுகள்"
+
+#: ../data/cheese-main-window.ui.h:11
+msgid "_Effects"
+msgstr "விளைவுகள் (_E)"
+
+#: ../data/cheese-main-window.ui.h:12
+msgid "Navigate to the next page of effects"
+msgstr "விளைவுகளின் அடுத்த பக்கத்திற்குச் செல்லவும்"
+
+#: ../data/cheese-main-window.ui.h:13
+msgid "Leave fullscreen mode and go back to windowed mode"
+msgstr ""
+"முழுத் திரைப் பயன்முறையிலிருந்து வெளியேறி சாளர பயன்முறைக்குத் திரும்பவும்"
+
+#: ../data/cheese-prefs.ui.h:1
+msgid "Preferences"
+msgstr "முன்னுரிமைகள்"
+
+#: ../data/cheese-prefs.ui.h:2
+msgid "Device"
+msgstr "சாதனம்"
+
+#: ../data/cheese-prefs.ui.h:3
+msgid "Photo resolution"
+msgstr "புகைப்பட தெளிதிறன் "
+
+#: ../data/cheese-prefs.ui.h:4
+msgid "Video resolution"
+msgstr "வீடியோ தெளிதிறன் "
+
+#: ../data/cheese-prefs.ui.h:5
+msgid "Webcam"
+msgstr "வலை கேமிரா"
+
+#: ../data/cheese-prefs.ui.h:6
+msgid "Brightness"
+msgstr "வெளிச்சம்"
+
+#: ../data/cheese-prefs.ui.h:7
+msgid "Saturation"
+msgstr "ஸாச்சுரேஷன்"
+
+#: ../data/cheese-prefs.ui.h:8
+msgid "Hue"
+msgstr "சாயல்"
+
+#: ../data/cheese-prefs.ui.h:9
+msgid "Contrast"
+msgstr "வேறுபாடு"
+
+#: ../data/cheese-prefs.ui.h:10
+msgid "Image"
+msgstr "பிம்பம்"
+
+#: ../data/cheese-prefs.ui.h:11
+msgid "Shutter"
+msgstr "ஷட்டர்"
+
+#: ../data/cheese-prefs.ui.h:12
+msgid "_Countdown"
+msgstr "_C இறங்குமுகக் கணிப்பு"
+
+#: ../data/cheese-prefs.ui.h:13
+msgid "Fire _flash"
+msgstr "ப்ளாஷ் வெளிச்சமிடு (_F)"
+
+#: ../data/cheese-prefs.ui.h:14
+msgid "Burst mode"
+msgstr "வெடிப்பு முறைமை"
+
+#: ../data/cheese-prefs.ui.h:15
+msgid "Number of photos"
+msgstr "நிழற்படங்களின் எண்ணிக்கை"
+
+#: ../data/cheese-prefs.ui.h:16
+msgid "Delay between photos (seconds)"
+msgstr "நிழற்படங்களுக்கிடையே இடைவெளி (விநாடிகளில்.)"
+
+#: ../data/cheese-prefs.ui.h:17
+msgid "Capture"
+msgstr "பிடிப்பு"
+
+#: ../data/cheese-prefs.ui.h:19
+msgid "_Close"
+msgstr "மூடு (_C)"
+
+#: ../data/cheese.appdata.xml.in.h:1
+msgid ""
+"Cheese uses your webcam to take photos and videos, applies fancy special "
+"effects and lets you share the fun with others."
+msgstr ""
+"Cheese புகைப்படங்களையும் வீடியோக்களையும் எடுக்க உங்கள் வெப்கேமைப் "
+"பயன்படுத்தி, வேடிக்கையான சிறப்பு விளைவுகளைக் கொடுத்து"
+"மற்றவர்களுடன் நீங்கள் வேடிக்கையான அவற்றைப் பகிர்ந்துகொள்ள உதவுகிறது."
+
+#: ../data/cheese.appdata.xml.in.h:2
+msgid ""
+"Take multiple photos in quick succession with burst mode. Use the countdown "
+"to give yourself time to strike a pose, and wait for the flash!"
+msgstr ""
+"பர்ஸ்ட் பயன்முறை மூலம், சற்று நேரத்தில் பல படங்களை எடுக்கலாம். சரியாக போஸ் "
+"கொடுக்க நேரம் வேண்டுமல்லவா, அதற்குத் தான் கவுன்ட்டவுன் வசதி உள்ளது, அதை "
+"இயக்கி விட்டு பிளாஷுக்குக் காத்திருங்கள்!"
+
+#: ../data/cheese.appdata.xml.in.h:3
+msgid ""
+"Under the hood, Cheese uses GStreamer to apply fancy effects to photos and "
+"videos. With Cheese it is easy to take photos of you, your friends, pets or "
+"whatever you want and share them with others."
+msgstr ""
+"Cheese தன் பின்னணியில் புகைப்படங்களுக்கும் வீடியோக்களுக்கும் சிறப்பு "
+"விளைவுகளைக் கொடுக்க GStreamer ஐப்  "
+"பயன்படுத்துகிறது. Cheese மூலம் உங்களையும் உங்கள் நண்பர்களையும் செல்லப் "
+"பிராணிகளையும் நீங்கள் விரும்பும் எதையும் மற்றவர்களிடம் பகிர விரும்பும் "
+"எதையும் படமெடுப்பது எளிதாகிறது."
+
+#: ../data/cheese.desktop.in.in.h:1 ../src/cheese-application.vala:112
+#: ../src/cheese-application.vala:584
+msgid "Cheese"
+msgstr "சீஸ்"
+
+#: ../data/cheese.desktop.in.in.h:2
+msgid "Cheese Webcam Booth"
+msgstr "சீஸ் வெப்கேம் பூத்"
+
+#: ../data/cheese.desktop.in.in.h:3 ../src/cheese-application.vala:579
+msgid "Take photos and videos with your webcam, with fun graphical effects"
+msgstr ""
+"வெப்கேம் மூலம் வேடிக்கையான பட அமைப்பு விளைவுகளுடன் போட்டோ மற்றும் வீடீயோ "
+"எடுங்கள்"
+
+#: ../data/cheese.desktop.in.in.h:4
+msgid "photo;video;webcam;"
+msgstr "ஃபோட்டோ;வீடியோ;வெப்கேம்;"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:1
+msgid "Use a countdown"
+msgstr "இறங்குமுகக் கணிப்பைப் பயன்படுத்தவும்"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:2
+msgid "Set to true to show a countdown before taking a photo"
+msgstr ""
+"போட்டோ எடுக்கும்போது இறங்குமுகக் கணிப்பைக் காட்டுவதற்கு, உண்மை என அமைக்கவும்"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:3
+msgid "Countdown length"
+msgstr "இறங்குமுகக் கணிப்பு நீளம்"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:4
+msgid "The duration of the countdown before taking a photo, in seconds"
+msgstr ""
+"போட்டோ எடுக்கும்போது இறங்குமுகக் கணிப்பைக் காட்ட கால அளவு., வினாடிகளில்"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:5
+msgid "Fire flash before taking a photo"
+msgstr "ஒரு படத்தை எடுக்கும் முன் ப்ளாஷை இயக்கு"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:6
+msgid "Set to true to fire a flash before taking a photo"
+msgstr "போட்டோ எடுக்கும் முன்பு பிளாஷை இயக்க உண்மை என அமைக்கவும்"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:7
+msgid "Camera device string indicator"
+msgstr "கேமிரா சாதன சரம் சுட்டிக்காட்டி"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:8
+msgid ""
+"The path to the device node which points to the camera, for example /dev/"
+"video0"
+msgstr "கேமிராவுக்கு சுட்டிக் காட்டும் சாதன பாதை, உ-ம். /dev/video0"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:9
+msgid "Last selected effect"
+msgstr "கடைசியாக தேர்ந்தெடுக்கப்பட்ட விளைவு"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:10
+msgid "Name of the installed effect that was selected last"
+msgstr "கடைசியாக தேர்ந்தெடுக்கப்பட்ட விளைவின் பெயர்"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:11
+msgid "Photo width"
+msgstr "போட்டோ அகலம்"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:12
+msgid "The width of the image captured from the camera, in pixels"
+msgstr "கேமிராவிலிருந்து பெறப்பட்ட உருவத்தின் அகலம், பிக்சல்களில்"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:13
+msgid "Photo height"
+msgstr "போட்டோ உயரம்"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:14
+msgid "The height of the image captured from the camera, in pixels"
+msgstr "கேமிராவிலிருந்து பெறப்பட்ட உருவத்தின் உயரம், பிக்சல்களில்"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:15
+msgid "Video width"
+msgstr "வீடியோ அகலம்"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:16
+msgid "The width of the video captured from the camera, in pixels"
+msgstr "கேமிராவிலிருந்து பெறப்பட்ட நகர்படத்தின் அகலம், பிக்சல்களில்"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:17
+msgid "Video height"
+msgstr "வீடியோ உயரம்"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:18
+msgid "The height of the video captured from the camera, in pixels"
+msgstr "கேமிராவிலிருந்து பெறப்பட்ட நகர்படத்தின் உயரம், பிக்சல்களில்"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:19
+msgid "Image brightness"
+msgstr "படத்தின்  ஒளிர்வு"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:20
+msgid "Adjusts the brightness of the image coming from the camera"
+msgstr ""
+"கேமிராவில்  இருந்து வரும் படங்களின் வெளிச்ச மட்டத்தை  கட்டுப்படுத்துகிறது"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:21
+msgid "Image contrast"
+msgstr "பட மாறுபாடு"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:22
+msgid "Adjusts the contrast of the image coming from the camera"
+msgstr ""
+"கேமிராவில்  இருந்து வரும் படங்களின் மாறுபாட்டு மட்டத்தை கட்டுப்படுத்துகிறது"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:23
+msgid "Image saturation"
+msgstr "பட தெவிட்டம் "
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:24
+msgid "Adjusts the saturation of the image coming from the camera"
+msgstr ""
+"கேமிராவில்  இருந்து வரும் படங்களின் தெவிட்ட மட்டத்தை கட்டுப்படுத்துகிறது"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:25
+msgid "Image hue"
+msgstr "படச் சாயல்"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:26
+msgid "Adjusts the hue (color tint) of the image coming from the camera"
+msgstr ""
+"கேமிராவில்  இருந்து வரும் படங்களின் சாயல் (நிற டின்ட்) மட்டத்தை "
+"கட்டுப்படுத்துகிறது"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:27
+msgid "Video path"
+msgstr "வீடியோ பாதை"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:28
+msgid ""
+"Defines the path where the videos are stored. If empty, \"XDG_VIDEO/Webcam\" "
+"will be used."
+msgstr ""
+"வீடியோக்கள் சேமித்து வைப்பதற்கான பாதையை நிர்ணயிக்கிறது. காலியாக இருந்தால் "
+"\"XDG_VIDEO/"
+"Webcam\" பயன்படுத்தப்படும்."
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:29
+msgid "Photo path"
+msgstr "போட்டோ பாதை"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:30
+msgid ""
+"Defines the path where the photos are stored. If empty, \"XDG_PHOTO/Webcam\" "
+"will be used."
+msgstr ""
+"போட்டோக்கள் சேமித்து வைப்பதற்கான பாதையை நிர்ணயிக்கிறது. காலியாக இருந்தால் "
+"\"XDG_PHOTO/"
+"Webcam\"பயன்படுத்தப்படும். "
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:31
+msgid "Time between photos in burst mode"
+msgstr "தொடர் படமெடுப்பு பாங்கில் படங்களுக்கிடையே இடைவெளி"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:32
+msgid ""
+"The length of time, in milliseconds, to delay between taking each photo in a "
+"burst sequence of photos. If the burst delay is less than the countdown "
+"duration, the countdown duration will be used instead."
+msgstr ""
+"ஒரு தொடர் படமெடுப்பில் படம் எடுக்க வேண்டிய இடைவெளி மில்லி வினாடிகளில். "
+"தொடர்பட "
+"தாமதிப்பு இறங்குமுக கால அளவை விட குறைவாக இருந்தால் இறங்குமுக கால அளவே "
+"பயன்படுத்தப்படும்."
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:33
+msgid "Number of photos in burst mode"
+msgstr "தொடர் படமெடுப்பில் எடுக்க வேண்டிய படங்களின் எண்ணிக்கை"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:34
+msgid "The number of photos to take in a single burst."
+msgstr "ஒரு தொடர் படமெடுப்பில் எடுக்க வேண்டிய படங்களின் எண்ணிக்கை"
+
+#: ../libcheese/cheese-avatar-chooser.c:94 ../src/cheese-window.vala:222
+#: ../src/cheese-window.vala:251 ../src/cheese-window.vala:326
+msgid "_Cancel"
+msgstr "ரத்து (_C)"
+
+#: ../libcheese/cheese-avatar-chooser.c:96
+msgid "_Select"
+msgstr "தேர்ந்தெடு (_S)"
+
+#: ../libcheese/cheese-avatar-widget.c:134 ../src/cheese-window.vala:636
+msgid "Shutter sound"
+msgstr "ஷட்டர் ஒலி"
+
+#: ../libcheese/cheese-avatar-widget.c:272
+msgid "_Take Another Picture"
+msgstr "மற்றொரு படம் பிடிக்கவும் (_T)"
+
+#: ../libcheese/cheese-camera.c:446 ../libcheese/cheese-camera.c:1622
+msgid "One or more needed GStreamer elements are missing: "
+msgstr ""
+"தேவைப்படும் ஜீஸ்டரீமர் அம்சங்களில் ஒன்று அல்லது அதற்கு மேற்பட்டவை காணவில்லை: "
+
+#: ../libcheese/cheese-camera.c:1581
+#, c-format
+msgid "No device found"
+msgstr "சாதனம் எதுவும் காணவில்லை"
+
+#. Translators: This is a time format, like "09:05:02" for 9
+#. * hours, 5 minutes, and 2 seconds. You may change ":" to
+#. * the separator that your locale uses or use "%Id" instead
+#. * of "%d" if your locale uses localized digits.
+#.
+#: ../libcheese/cheese-camera.c:1857
+#, c-format
+msgctxt "time format"
+msgid "%02i:%02i:%02i"
+msgstr "%02i:%02i:%02i"
+
+#: ../libcheese/cheese-camera-device.c:562
+msgid "Device capabilities not supported"
+msgstr "சாதன திறன்களுக்கு ஆதரவில்லை"
+
+#: ../libcheese/cheese-camera-device.c:591
+#, c-format
+msgid "Failed to initialize device %s for capability probing"
+msgstr "இயல்மை சோதனைக்கு சாதனம் %sஐ துவக்க முடியவில்லை"
+
+#: ../libcheese/cheese-camera-device.c:780
+msgid "Unknown device"
+msgstr "தெரியாத சாதனம்"
+
+#: ../libcheese/cheese-camera-device.c:803
+msgid "Cancellable initialization not supported"
+msgstr "ரத்துசெய்யக்கூடிய துவக்குதலுக்கு ஆதரவில்லை"
+
+#: ../src/cheese-application.vala:55
+msgid "Start in wide mode"
+msgstr "அகல பாங்கில் துவக்கு"
+
+#: ../src/cheese-application.vala:58
+msgid "Device to use as a camera"
+msgstr "புகைப்பட கருவியாக பயன்படுத்த சாதனம்"
+
+#: ../src/cheese-application.vala:58
+msgid "DEVICE"
+msgstr "DEVICE"
+
+#: ../src/cheese-application.vala:60
+msgid "Output version information and exit"
+msgstr "பதிப்பு தகவல் தந்து வெளியேறவும்"
+
+#: ../src/cheese-application.vala:62
+msgid "Start in fullscreen mode"
+msgstr "முழுத்திரை பாங்கில் துவக்கவும்."
+
+#: ../src/cheese-application.vala:192
+msgid "- Take photos and videos from your webcam"
+msgstr "- வெப்கேம் மூலம் போட்டோ மற்றும் வீடியோ எடுங்கள்"
+
+#: ../src/cheese-application.vala:201
+#, c-format
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr ""
+"'%s --help' என்பதை இயக்கி இருக்கும் கட்டளை வரி விருப்பங்களை பட்டியலிடவும்."
+
+#: ../src/cheese-application.vala:585
+msgid "translator-credits"
+msgstr "I. Felix <ifelix@redhat.com>, Dr. T. Vasudevan <agnihot3@gmail.com>"
+
+#: ../src/cheese-application.vala:587
+msgid "Cheese Website"
+msgstr "சீஸ் இணைய தளம்"
+
+#. Translators: a description of an effect (to be applied to images
+#. *              from the webcam) which does nothing.
+#: ../src/cheese-effects-manager.vala:51
+msgid "No Effect"
+msgstr "விளைவு ஏதுமில்லை"
+
+#: ../src/cheese-window.vala:194
+#, c-format
+msgid "Could not open %s"
+msgstr "%s ஐ திறக்க முடியவில்லை "
+
+#: ../src/cheese-window.vala:219
+#, c-format
+msgid "Are you sure you want to permanently delete the file?"
+msgid_plural "Are you sure you want to permanently delete %d files?"
+msgstr[0] "நிச்சயமாக கோப்பை நிரந்தரமாக நீக்க வேண்டுமா?"
+msgstr[1] "நிச்சயமாக %d கோப்புக்களை நிரந்தரமாக நீக்க வேண்டுமா?"
+
+#: ../src/cheese-window.vala:223
+msgid "_Delete"
+msgstr "(_D) அழி"
+
+#: ../src/cheese-window.vala:225
+msgid "If you delete an item, it will be permanently lost"
+msgid_plural "If you delete the items, they will be permanently lost"
+msgstr[0] "ஓர் உருப்படியை நீக்கி விட்டால், அது நிரந்தரமாக இழக்கப்பட்டுவிடும்."
+msgstr[1] "உருப்படிகளை நீக்கி விட்டால், அவை நிரந்தரமாக இழக்கப்பட்டுவிடும்."
+
+#: ../src/cheese-window.vala:298
+#, c-format
+msgid "Could not move %s to trash"
+msgstr "%s ஐ குப்பைக்கு நகர்த்த முடியவில்லை "
+
+#. Nothing selected.
+#: ../src/cheese-window.vala:323
+msgid "Save File"
+msgstr "கோப்பையை சேமித்து வைக்கவும்"
+
+#: ../src/cheese-window.vala:327
+msgid "Save"
+msgstr "சேமி"
+
+#: ../src/cheese-window.vala:357
+#, c-format
+msgid "Could not save %s"
+msgstr "%s ஐ சேமித்து வைக்க முடியவில்லை"
+
+#: ../src/cheese-window.vala:746
+msgid "Stop recording"
+msgstr "பதிவை நிறுத்தவும்"
+
+#: ../src/cheese-window.vala:761
+msgid "Record a video"
+msgstr "வீடியோ ஒன்றை பதிவு செய்க"
+
+#. FIXME: Set the effects action to be inactive.
+#: ../src/cheese-window.vala:796
+msgid "Stop taking pictures"
+msgstr "படங்கள் எடுப்பதை நிறுத்துக"
+
+#: ../src/cheese-window.vala:819
+msgid "Take multiple photos"
+msgstr "பல படங்கள் எடுக்கவும்"
+
+#: ../src/cheese-window.vala:1003
+msgid "No effects found"
+msgstr "விளைவுகள் எதுவும் கிடைக்கவில்லை"
+
+#: ../src/cheese-window.vala:1123
+msgid "There was an error playing video from the webcam"
+msgstr "வெப்கேமிலிருந்து வீடியோவை இயக்கும் போது ஒரு பிழை ஏற்பட்டது"
+
+#: ../src/cheese-window.vala:1140
+msgid "Open"
+msgstr "திற"
+
+#: ../src/cheese-window.vala:1143
+msgid "Save _As…"
+msgstr "(_A) இப்படி சேமி..."
+
+#: ../src/cheese-window.vala:1146
+msgid "Move to _Trash"
+msgstr "குப்பைத் தொட்டிக்கு நகர்த்தவும் (_T)"
+
+#: ../src/cheese-window.vala:1149
+msgid "Delete"
+msgstr "அழி"
+
+#: ../src/cheese-window.vala:1251
+msgid "Record a video using a webcam"
+msgstr "வெப்கேமைப் பயன்படுத்தி வீடியோ ஒன்றை பதிவு செய்யவும்"
+
+#: ../src/cheese-window.vala:1257
+msgid "Take multiple photos using a webcam"
+msgstr "வெப்கேமைப் பயன்படுத்தி பல புகைப்படங்களை எடுக்கவும்"
+
+#: ../src/cheese-window.vala:1269
+msgid "Choose an Effect"
+msgstr "விளைவு ஒன்றைத் தேர்வு செய்யவும்"
+
+#: ../src/cheese-window.vala:1280
+msgid "Record a Video"
+msgstr "வீடியோ ஒன்றை பதிவு செய்க "
+
+#: ../src/cheese-window.vala:1284
+msgid "Take Multiple Photos"
+msgstr "பல படங்கள் எடுக்கவும்"
+
+#~ msgid "Share…"
+#~ msgstr "பகிர்வு..."
+
+#~ msgid "Move _All to Trash"
+#~ msgstr "_A எல்லவற்றையும் குப்பைத் தொட்டிக்கு நகர்த்தவும்"
+
+#~ msgid "_Wide Mode"
+#~ msgstr "அகல முறைமை (_W)"
+
+#~ msgid "P_revious Effects"
+#~ msgstr "_r முந்தைய விளைவுகள்"
+
+#~ msgid "Ne_xt Effects"
+#~ msgstr "_x அடுத்த விளைவுகள்"
+
+#~ msgid "_Take a Photo"
+#~ msgstr "ஒரு போட்டோ எடுக்கவும் (_T)"
+
+#~ msgid "_Leave Fullscreen"
+#~ msgstr "முழுத் திரையைலிருந்து வெளியேரவும் (_L)"
+
+#~ msgid "Picture hue"
+#~ msgstr "படச் சாயல்"
+
+#~ msgid "Whether to start in wide mode"
+#~ msgstr "அகல பாங்கில் துவக்க வேண்டுமா"
+
+#~ msgid ""
+#~ "If set to true, Cheese will start up in wide mode, with the image "
+#~ "collection placed on the right-hand side. Useful with small screens."
+#~ msgstr ""
+#~ "உண்மை என அமைக்கப்பட்டால், சீஸ் ஒரு அகல முறைமையில் வலது பக்கம் ஒரு பட தொகுப்புடன் "
+#~ "துவக்கப்படும். சிறிய திரைகளுக்கு பயனுள்ளதாக இருக்கும்."
+
+#~ msgid "Whether to start in fullscreen"
+#~ msgstr "முழுத்திரை பாங்கில் துவக்க வேண்டுமா"
+
+#~ msgid "If set to true, Cheese will start up in fullscreen mode."
+#~ msgstr "உண்மை  என அமைக்க, சீஸ் முழுத்திரை பாங்கில் துவங்கும்."
+
+#~ msgid "_Discard photo"
+#~ msgstr "_D போட்டோவை எறி"
+
+#~ msgid "_Shoot"
+#~ msgstr "படம்பிடி (_S)"
+
+#~ msgid "Mode:"
+#~ msgstr "பயன்முறை:"
+
+#~ msgid "Another instance of Cheese is currently running\n"
+#~ msgstr "சீஸ் நிரலின் ஒரு பதிவு ஏற்கெனெவே இயங்கிக்கொண்டு இருக்கிறது\n"
+
+#~ msgid "Stop _Recording"
+#~ msgstr "பதிவை நிறுத்தவும் (_R)"
+
+#~ msgid "Take _Multiple Photos"
+#~ msgstr "பல படங்கள் எடுக்கவும் (_M)"
+
+#~ msgid "Previous"
+#~ msgstr "முந்தைய"
+
+#~ msgid "Next"
+#~ msgstr "அடுத்து"
+
+#~ msgid "Leave fullscreen"
+#~ msgstr "முழுத்திரையை விட்டு விலகவும்"
+
+#~ msgid "_Take a photo"
+#~ msgstr "ஒரு போட்டோ எடுக்கவும் (_T)"
+
+#~ msgid "_Cheese"
+#~ msgstr "சீஸ் (_C)"
+
+#~ msgid "_Contents"
+#~ msgstr "உள்ளடக்கங்கள் (_C)"
+
+#~ msgid "_Edit"
+#~ msgstr "திருத்தி அமைக்கவும் (_E)"
+
+#~ msgid "<b>Shutter</b>"
+#~ msgstr "<b>ஷட்டர்</b>"
+
+#~ msgid ""
+#~ "This program is free software; you can redistribute it and/or modify it "
+#~ "under the terms of the GNU General Public License as published by the "
+#~ "Free Software Foundation; either version 2 of the License, or (at your "
+#~ "option) any later version.\n"
+#~ "\n"
+#~ "This program is distributed in the hope that it will be useful, but "
+#~ "WITHOUT ANY WARRANTY; without even the implied warranty of "
+#~ "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General "
+#~ "Public License for more details.\n"
+#~ "\n"
+#~ "You should have received a copy of the GNU General Public License along "
+#~ "with this program. If not, see http://www.gnu.org/licenses/\n"
+#~ msgstr ""
+#~ "இந்த நிரல் இலவச மென் பொருளாகும். நீங்கள்  இலவச மென் பொருள் அமைப்பினால் "
+#~ "வெளியிடப்பட்டஜிஎன்யு பொது அனுமதிக்கான விதிகளின் படி இந்த 2ம் பதிப்பையோ அல்லது "
+#~ "அடுத்த பதிப்புகளையோ நீங்கள் (விருப்பப்படி) மாற்றலாம். அல்லது மீண்டும் பறிமாறலாம். \n"
+#~ "\n"
+#~ "உபயோகப்படும் என்ற எதிர்பார்ப்புடன் இந்த நிரல் வெளியிடப்படுகிறது. ஆனால் விற்க தகுதி, "
+#~ "குறிப்பிட்ட  செயலுக்கான தகுதி உள்பட எந்த உத்திரவாதமும் அளிக்கப்படவில்லை. மேற் கொண்டு "
+#~ "விவரங்களுக்கு ஜிஎன்யு பொது அனுமதிக்கான விதிகளை பார்க்கவும்\n"
+#~ "\n"
+#~ "ஜிஎன்யு பொது அனுமதிக்கான விதிகளின் பிரதி உங்களுக்கு கிடைத்திருக்க வேண்டும். "
+#~ "இல்லையானால் இங்கே பார்க்கவும்: <http://www.gnu.org/licenses/>.\n"
+
+#~ msgid "Image properties"
+#~ msgstr " பிம்ப பண்புகள்"
+
+#~ msgid "_Preferences"
+#~ msgstr "முன்னுரிமைகள் (_P)"
+
+#~ msgid "Resolution"
+#~ msgstr "தெளிதிறன் "
+
+#~ msgid ""
+#~ "A list of effects applied on startup. Possible values are: \"mauve\", "
+#~ "\"noir_blanc\", \"saturation\", \"hulk\", \"vertical-flip\", \"horizontal-"
+#~ "flip\", \"shagadelic\", \"vertigo\", \"edge\", \"dice\" and \"warp\""
+#~ msgstr ""
+#~ "தொடங்களில் செயல்படுத்தப்படும் விளைவுகளின் பட்டியல். சாத்தியமான மதிப்புகள்: \"மாவ்\","
+#~ "\"நாய்ர்_பிளான்க்\", \"ஸாச்சுரேஷன்\", \"ஹல்க்\", \"வெர்ட்டிகல் பிளிப்\", \"ஹரிஸான்ட்டல்,"
+#~ "பிளிப்\", \"ஷாகடெலிக்\", \"வெர்ட்டிகோ\", \"எட்ஜ்\", \"டைஸ்\", மற்றும் \"வார்ப்\""
+
+#~ msgid ""
+#~ "If set to true, then Cheese will have a feature allowing you to delete a "
+#~ "file immediately and in-place, instead of moving it to the trash. This "
+#~ "feature can be dangerous, so use caution."
+#~ msgstr ""
+#~ "உண்மைக்கு அமைக்கப்பட்டிருந்தால், கோப்பு ஒன்றைக் குப்பைத் தொட்டிக்கு நகர்த்துவதற்கு பதிலாக,"
+#~ "உடனடியாகவும் ஓர் இடத்திலும் நீக்குவதற்கு அனுமதிப்பதற்கான ஓர் அம்சத்தை சீஸ் கொண்டிருக்கும்."
+#~ "இந்த அம்சம் அபாயகரமானது. எனவே கவனமாகப் பயன்படுத்த வேண்டும்."
+
+#~ msgid "Whether to enable immediate deletion"
+#~ msgstr "உடனடி நீக்கத்திற்கு வழிவகுக்க வேண்டுமா"
+
+#~ msgid "%d "
+#~ msgstr "%d "
+
+#~ msgid "Enable wide mode"
+#~ msgstr "அகல முறைமையை செயல்படுத்து"
+
+#~ msgid "Be verbose"
+#~ msgstr "நீள் விளக்கமாக இருக்கவும்"
+
+#~ msgid "Historical"
+#~ msgstr "வரலாற்று மகிமையுள்ள"
+
+#~ msgid "Dice"
+#~ msgstr "டைஸ்"
+
+#~ msgid "Edge"
+#~ msgstr "எட்ஜ்"
+
+#~ msgid "Hulk"
+#~ msgstr "ஹல்க்"
+
+#~ msgid "Mauve"
+#~ msgstr "மாவ்"
+
+#~ msgid "Noir/Blanc"
+#~ msgstr "நாய்ர்/பிளான்க்"
+
+#~ msgid "Optical Illusion"
+#~ msgstr "ஒளியியற்கண்மாயம்"
+
+#~ msgid "Quark"
+#~ msgstr "க்வார்க்"
+
+#~ msgid "Radioactive"
+#~ msgstr "கதிரியக்கமுள்ள"
+
+#~ msgid "Shagadelic"
+#~ msgstr "ஷாகடெலிக்"
+
+#~ msgid "Kung-Fu"
+#~ msgstr "குங்-ஃபூ"
+
+#~ msgid "Vertigo"
+#~ msgstr "வெர்ட்டிகோ"
+
+#~ msgid "Warp"
+#~ msgstr "வார்ப்"
+
+#~ msgid "Switch to Burst Mode"
+#~ msgstr "தொடர் படமெடுப்பு செயல்முறைக்கு நிலை மாற்றவும்"
+
+#~ msgid "Switch to Photo Mode"
+#~ msgstr "போட்டோ செயல்முறைக்கு நிலை மாற்றவும்"
+
+#~ msgid "Switch to Video Mode"
+#~ msgstr "வீடியோ செயல்முறைக்கு நிலை மாற்றவும்"
+
+#~ msgid "Switch to the Effects Selector"
+#~ msgstr "விளைவுகள் தேர்ந்தெடுப்பானுக்கு நிலை மாற்றவும்"
+
+#~ msgid "Camera setup failed"
+#~ msgstr "கேமிரா அமைப்பு தோல்வியடைந்தது"
+
+#~ msgid "Vertical Flip"
+#~ msgstr "செங்குத்து திருப்பம்"
+
+#~ msgid "Horizontal Flip"
+#~ msgstr "கிடைமட்ட திருப்பம்"
+
+#~ msgid "No camera found!"
+#~ msgstr "கேமிரா இல்லை!"
+
+#~ msgid "Please refer to the help for further information."
+#~ msgstr "மேலும் விவரங்களுக்கு உதவியைப் பார்க்கவும்."
+
+#~ msgid "_Skip"
+#~ msgstr "விட்டு விடவும் (_S)"
+
+#~ msgid "S_kip All"
+#~ msgstr "அனைத்தையும் விட்டு விடவும் (_k)"
+
+#~ msgid "Delete _All"
+#~ msgstr "அனைத்தையும் நீக்கி விடவும் (_A)"
+
+#~ msgid ""
+#~ "Failed to launch program to show:\n"
+#~ "%s\n"
+#~ "%s"
+#~ msgstr ""
+#~ "காட்டுவதற்கான நிரலைத் தொடங்கத் தவறிவிட்டது:\n"
+#~ "%s\n"
+#~ "%s"
+
+#~ msgid "Error while deleting"
+#~ msgstr "நீக்கும்போது பிழை"
+
+#~ msgid "The file \"%s\" cannot be deleted. Details: %s"
+#~ msgstr "\"%s\" கோப்பை நீக்க முடியாது. விவரங்கள்: %s"
+
+#~ msgid "Are you sure you want to permanently delete the %'d selected item?"
+#~ msgid_plural ""
+#~ "Are you sure you want to permanently delete the %'d selected items?"
+#~ msgstr[0] "நிச்சயமாக %'d தேர்ந்தெடுத்த உருப்படியை அழிக்க வேண்டுமா?"
+#~ msgstr[1] "நிச்சயமாக %'d தேர்ந்தெடுத்த உருப்படிகளை அழிக்க வேண்டுமா?"
+
+#~ msgid "Unknown Error"
+#~ msgstr "தெரியாத பிழை"
+
+#~ msgid "Cannot move file to trash, do you want to delete immediately?"
+#~ msgstr "குப்பைத் தொட்டிக்குக் கோப்பையை நகர்த்த முடியாது. உடனடியாக நீக்க வேண்டுமா?"
+
+#~ msgid "The file \"%s\" cannot be moved to the trash. Details: %s"
+#~ msgstr "குப்பைத் தொட்டிக்கு \"%s\" கோப்பை நகர்த்த முடியாது. விவரங்கள்: %s"
+
+#~ msgid "Really move all photos and videos to the trash?"
+#~ msgstr ""
+#~ "எல்லா போட்டோக்கள் மற்றும் வீடியோக்களை நிச்சயமாகக் குப்பைத் தொட்டிக்கு நகர்த்த வேண்டுமா?"
+
+#~ msgid "_Move to Trash"
+#~ msgstr "குப்பைத் தொட்டிக்கு நகர்த்தவும் (_M)"
+
+#~ msgid "Unable to open help file for Cheese"
+#~ msgstr "சீஸூக்கு உடைய உதவி கோப்பையைத் திறக்க முடியவில்லை"
+
+#~ msgid ""
+#~ "This program is free software; you can redistribute it and/or modify it "
+#~ "under the terms of the GNU General Public License as published by the "
+#~ "Free Software Foundation; either version 2 of the License, or (at your "
+#~ "option) any later version.\n"
+#~ msgstr ""
+#~ "இந்த நிரல், கட்டற்ற மென்பொருள் ஆகும். கட்டற்ற மென்பொருள் அறக்கட்டளை வெளியிட்டபடி,குனு "
+#~ "பொது பொதுவுடைமை உரிமத்தின் விதிமுறைகளின்கீழ், உரிமத்தின் பதிப்பு 2 அல்லது,(உங்கள் "
+#~ "விருப்பத்தின்படி) அதற்கு மேற்பட்ட ஏதேனும் பதிப்பு ஆகியவற்றை நீங்கள் மறுவிநியோகம் "
+#~ "செய்யலாம மற்றும்/அல்லது மாற்றி அமைக்கலாம்.\n"
+
+#~ msgid ""
+#~ "This program is distributed in the hope that it will be useful, but "
+#~ "WITHOUT ANY WARRANTY; without even the implied warranty of "
+#~ "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General "
+#~ "Public License for more details.\n"
+#~ msgstr ""
+#~ "இந்த நிரல், பயன் உள்ளதாக இருக்கும் என்ற நம்பிக்கையுடன் விநியோகிக்கப்படுகிறது. "
+#~ "ஆனால்இதற்கு எந்தவோர் உத்தரவாதமும் கிடையாது. வர்த்தகம் செய்யக் கூடிய தன்மை அல்லது "
+#~ "குறிப்பிட்டஒரு நோக்கத்திற்கான தகுதி என்பதைச் சுட்டிக் காட்டக் கூடிய உத்தரவாதமும் இல்லை. "
+#~ "மேலும்விவரங்களுக்கு குனு பொது பொதுவுடைமை உரிமத்தைப் பார்க்கவும்.\n"
+
+#~ msgid ""
+#~ "You should have received a copy of the GNU General Public License along "
+#~ "with this program. If not, see <http://www.gnu.org/licenses/>."
+#~ msgstr ""
+#~ "இந்த நிரலுடன் குனு பொது பொதுவுடைமை உரிமத்தின் பிரதி ஒன்று தங்களுக்குக் "
+#~ "கிடைத்திருக்க வேண்டும்.இல்லை என்றால் <http://www.gnu.org/licenses/> பார்க்வும்."
+
+#~ msgid "_Start Recording"
+#~ msgstr "பதிவைத் தொடங்கவும் (_S)"
+
+#~ msgid "Help on this Application"
+#~ msgstr "இந்த செயல்பாட்டில் உதவி"
+
+#~ msgid "_Start recording"
+#~ msgstr "பதிவு செய்யத் தொடங்கவும் (_S)"
+
+#~ msgid "Check your GStreamer installation"
+#~ msgstr "உங்களுடைய ஜீஸ்டரீமர் நிறுவுதலைச் சரிபார்க்கவும்"
+
+#~ msgid "Could not set the Account Photo"
+#~ msgstr "கணக்கியல் போட்டோவை அமைக்க முடியவில்லை"
+
+#~ msgid "Media files"
+#~ msgstr "ஊடகக் கோப்புகள்"
+
+#~ msgid "_Set As Account Photo"
+#~ msgstr "கணக்கியல் போட்டோவாக அமைக்கவும் (_S)"
+
+#~ msgid "Send by _Mail"
+#~ msgstr "அஞ்சல் மூலம் அனுப்பவும் (_M)"
+
+#~ msgid "Send _To"
+#~ msgstr "என்பதற்கு அனுப்பவும் (_T)"
+
+#~ msgid "Export to F-_Spot"
+#~ msgstr "F-ஸ்பாட்டுக்கு ஏற்றுமதி செய்யவும் (_S)"
+
+#~ msgid "Export to _Flickr"
+#~ msgstr "பிளிக்கருக்கு ஏற்றுமதி செய்யவும் (_F)"

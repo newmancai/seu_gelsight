@@ -1,0 +1,21 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+[encoding: UTF-8]
+[type: gettext/glade]data/cheese-appmenu.ui
+[type: gettext/glade]data/cheese-main-window.ui
+[type: gettext/glade]data/cheese-prefs.ui
+[type: gettext/glade]data/headerbar.ui
+data/org.gnome.Cheese.appdata.xml.in
+data/org.gnome.Cheese.desktop.in.in
+data/org.gnome.Cheese.gschema.xml
+libcheese/cheese-avatar-chooser.c
+libcheese/cheese-avatar-widget.c
+libcheese/cheese-camera.c
+libcheese/cheese-camera-device.c
+libcheese/cheese-widget.c
+src/cheese-application.vala
+src/cheese-countdown.vala
+src/cheese-effects-manager.vala
+src/cheese-main.vala
+src/cheese-preferences.vala
+src/cheese-window.vala

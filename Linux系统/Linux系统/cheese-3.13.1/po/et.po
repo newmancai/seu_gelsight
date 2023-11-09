@@ -1,0 +1,476 @@
+# Cheese'i eesti keele tõlge.
+# Estonian translation of Cheese.
+#
+# Copyright (C) 2008–2011 The GNOME Project.
+# This file is distributed under the same license as the Cheese package.
+#
+# Ivar Smolin <okul linux ee>, 2008–2011.
+# Mattias Põldaru <mahfiaz@gmail.com>, 2008-2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese MASTER\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=cheese&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2013-09-18 21:42+0000\n"
+"PO-Revision-Date: 2013-09-20 20:48+0300\n"
+"Last-Translator: Mattias Põldaru <mahfiaz@gmail.com>\n"
+"Language-Team: Estonian <>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "Photo mode"
+msgstr "Fotorežiim"
+
+msgid "Video mode"
+msgstr "Videorežiim"
+
+msgid "Photo burst mode"
+msgstr "Sarivõtte režiim"
+
+msgid "Take a photo using a webcam"
+msgstr "Pildista veebikaameraga"
+
+msgid "_Take a Photo"
+msgstr "_Pildista"
+
+msgid "Navigate to the previous page of effects"
+msgstr "Eelmise efektide lehe avamine"
+
+msgid "Effects"
+msgstr "Efektid"
+
+msgid "_Effects"
+msgstr "_Efektid"
+
+msgid "Navigate to the next page of effects"
+msgstr "Järgmise efektide lehe avamine"
+
+msgid "Leave fullscreen mode and go back to windowed mode"
+msgstr "Täisekraani režiimi sulgemine ning naasmine aknarežiimi"
+
+msgid "_Leave Fullscreen"
+msgstr "_Välju täisekraanvaatest"
+
+msgid "Preferences"
+msgstr "Eelistused"
+
+msgid "Device"
+msgstr "Seade"
+
+msgid "Photo resolution"
+msgstr "Fotolahutus"
+
+msgid "Video resolution"
+msgstr "Videolahutus"
+
+msgid "Webcam"
+msgstr "Veebikaamera"
+
+msgid "Brightness"
+msgstr "Heledus"
+
+msgid "Saturation"
+msgstr "Küllastus"
+
+msgid "Hue"
+msgstr "Toon"
+
+msgid "Contrast"
+msgstr "Kontrast"
+
+msgid "Image"
+msgstr "Pilt"
+
+msgid "Shutter"
+msgstr "Katik"
+
+msgid "_Countdown"
+msgstr "_Viitpäästik"
+
+msgid "Fire _flash"
+msgstr "_Kasutatakse välku"
+
+msgid "Burst mode"
+msgstr "Sarivõte"
+
+msgid "Number of photos"
+msgstr "Fotode arv"
+
+msgid "Delay between photos (seconds)"
+msgstr "Viivitus fotode vahel (sekundites)"
+
+msgid "Capture"
+msgstr "Võte"
+
+msgid "Cheese"
+msgstr "Cheese"
+
+msgid "Cheese Webcam Booth"
+msgstr "Cheese'i veebikaamera kabiin"
+
+msgid "Take photos and videos with your webcam, with fun graphical effects"
+msgstr ""
+"Veebikaamerast fotode ja videote salvestamine, ka koos graafiliste efektidega"
+
+msgid "photo;video;webcam;"
+msgstr "foto;video;veebikaamera;pildista;filmi;"
+
+msgid "Use a countdown"
+msgstr "Viitpäästiku kasutamine"
+
+msgid "Set to true to show a countdown before taking a photo"
+msgstr ""
+"Kui märgitud, siis näidatakse enne pildi tegemist viitpäästikuni jäänud "
+"sekundeid"
+
+msgid "Countdown length"
+msgstr "Loenduri pikkus"
+
+msgid "The duration of the countdown before taking a photo, in seconds"
+msgstr "Viitpäästiku pikkus sekundites"
+
+msgid "Fire flash before taking a photo"
+msgstr "Foto tehakse koos välguga"
+
+msgid "Set to true to fire a flash before taking a photo"
+msgstr "Kui märgitud, siis tehakse foto koos välguga"
+
+msgid "Camera device string indicator"
+msgstr "Kaameraseade"
+
+msgid ""
+"The path to the device node which points to the camera, for example /dev/"
+"video0"
+msgstr "Kaameraseadmele osutav sõne, näiteks /dev/video0"
+
+msgid "Last selected effect"
+msgstr "Viimati valitud efekt"
+
+msgid "Name of the installed effect that was selected last"
+msgstr "Viimati valitud paigaldatud efekti nimi"
+
+msgid "Photo width"
+msgstr "Foto kõrgus"
+
+msgid "The width of the image captured from the camera, in pixels"
+msgstr "Kaameraga tehtava pildi laius pikslites"
+
+msgid "Photo height"
+msgstr "Foto laius"
+
+msgid "The height of the image captured from the camera, in pixels"
+msgstr "Kaameraga tehtava pildi kõrgus pikslites"
+
+msgid "Video width"
+msgstr "Video kõrgus"
+
+msgid "The width of the video captured from the camera, in pixels"
+msgstr "Kaamerast püütud video laius pikslites"
+
+msgid "Video height"
+msgstr "Video laius"
+
+msgid "The height of the video captured from the camera, in pixels"
+msgstr "Kaamerast püütud video kõrgus pikslites"
+
+msgid "Image brightness"
+msgstr "Pildi heledus"
+
+msgid "Adjusts the brightness of the image coming from the camera"
+msgstr "Kaamerast tuleva pildi heledusastme kohendamine"
+
+msgid "Image contrast"
+msgstr "Pildi kontrast"
+
+msgid "Adjusts the contrast of the image coming from the camera"
+msgstr "Kaamerast tuleva pildi kontrastiastme kohendamine"
+
+msgid "Image saturation"
+msgstr "Pildi küllastus"
+
+msgid "Adjusts the saturation of the image coming from the camera"
+msgstr "Kaamerast tuleva pildi küllastusastme kohendamine"
+
+msgid "Image hue"
+msgstr "Pildi tonaalsus"
+
+msgid "Adjusts the hue (color tint) of the image coming from the camera"
+msgstr "Kaamerast tuleva pildi toonide (hue) kohendamine"
+
+msgid "Video path"
+msgstr "Video asukoht"
+
+msgid ""
+"Defines the path where the videos are stored. If empty, \"XDG_VIDEO/Webcam\" "
+"will be used."
+msgstr ""
+"Video salvestamiseks kasutatav kataloog. Kui see on tühi, siis kasutatakse "
+"kataloogi \"XDG_VIDEO/Webcam\"."
+
+msgid "Photo path"
+msgstr "Fotode asukoht"
+
+msgid ""
+"Defines the path where the photos are stored. If empty, \"XDG_PHOTO/Webcam\" "
+"will be used."
+msgstr ""
+"Fotode salvestamiseks kasutatav kataloog. Kui see on tühi, siis kasutatakse "
+"kataloogi \"XDG_PHOTO/Webcam\"."
+
+msgid "Time between photos in burst mode"
+msgstr "Viivitus sarivõtte fotode vahel"
+
+msgid ""
+"The length of time, in milliseconds, to delay between taking each photo in a "
+"burst sequence of photos. If the burst delay is less than the countdown "
+"duration, the countdown duration will be used instead."
+msgstr ""
+"Ajavahemik millisekundites sarivõtte ülesvõetete vahel. Kui sarivõtte "
+"viivitus on lühem viitpäästiku pikkusest, kasutatakse selle asemel "
+"viitpäästiku pikkust."
+
+msgid "Number of photos in burst mode"
+msgstr "Fotode arv sarivõttes"
+
+msgid "The number of photos to take in a single burst."
+msgstr "Fotode arv, mitu võetakse ühe sarivõttega."
+
+msgid "Shutter sound"
+msgstr "Katiku heli"
+
+msgid "Select"
+msgstr "Vali"
+
+msgid "Take a Photo"
+msgstr "Pildista"
+
+msgid "_Discard photo"
+msgstr "_Hülga foto"
+
+msgid "One or more needed GStreamer elements are missing: "
+msgstr "Üks või enam Gstreameri elementi on puudu: "
+
+#, c-format
+msgid "No device found"
+msgstr "Seadet ei leitud!"
+
+#. Translators: This is a time format, like "09:05:02" for 9
+#. * hours, 5 minutes, and 2 seconds. You may change ":" to
+#. * the separator that your locale uses or use "%Id" instead
+#. * of "%d" if your locale uses localized digits.
+#.
+#, c-format
+msgctxt "time format"
+msgid "%02i:%02i:%02i"
+msgstr "%02i:%02i:%02i"
+
+msgid "Device capabilities not supported"
+msgstr "Seadme omadused pole toetatud"
+
+#, c-format
+msgid "Failed to initialize device %s for capability probing"
+msgstr "Seadme %s lähtestamine võimaluste proovimiseks nurjus"
+
+msgid "Unknown device"
+msgstr "Tundmatu seade"
+
+msgid "Cancellable initialization not supported"
+msgstr "Katkestatav lähtestamine pole toetatud"
+
+msgid "Start in wide mode"
+msgstr "Käivitatakse lairežiimis"
+
+msgid "Device to use as a camera"
+msgstr "Seade, mida kasutatakse kaamerana"
+
+msgid "DEVICE"
+msgstr "SEADE"
+
+msgid "Output version information and exit"
+msgstr "Väljastab versiooniteabe ja väljub"
+
+msgid "Start in fullscreen mode"
+msgstr "Käivitatakse täisekraanivaates"
+
+msgid "_Shoot"
+msgstr "_Pildista"
+
+msgid "Mode:"
+msgstr "Režiim:"
+
+msgid "_Photo"
+msgstr "_Foto"
+
+msgid "_Video"
+msgstr "_Video"
+
+msgid "_Burst"
+msgstr "_Sarivõte"
+
+msgid "_Fullscreen"
+msgstr "_Täisekraan"
+
+msgid "P_references"
+msgstr "_Eelistused"
+
+msgid "_Help"
+msgstr "A_bi"
+
+msgid "_About"
+msgstr "_Programmist"
+
+msgid "_Quit"
+msgstr "_Lõpeta"
+
+msgid "- Take photos and videos from your webcam"
+msgstr "- Veebikaamerast fotode ja videote salvestamine"
+
+#, c-format
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr "Kõigi käsureavalikute nägemiseks käivita '%s --help'."
+
+msgid "translator-credits"
+msgstr ""
+"Ivar Smolin <okul linux ee>, 2008–2011.\n"
+"Mattias Põldaru <mahfiaz gmail com>, 2008–2010."
+
+msgid "Cheese Website"
+msgstr "Cheese'i veebisait"
+
+#. Translators: a description of an effect (to be applied to images
+#. *              from the webcam) which does nothing.
+msgid "No Effect"
+msgstr "Efekt puudub"
+
+#, c-format
+msgid "Could not open %s"
+msgstr "%s polnud võimalik avada"
+
+#, c-format
+msgid "Are you sure you want to permanently delete the file?"
+msgid_plural "Are you sure you want to permanently delete %d files?"
+msgstr[0] "Kas tahad kindlasti faili jäädavalt kustutada?"
+msgstr[1] "Kas tahad kindlasti %d faili jäädavalt kustutada?"
+
+msgid "If you delete an item, it will be permanently lost"
+msgid_plural "If you delete the items, they will be permanently lost"
+msgstr[0] "Kui sa kirje kustutad, hävib see jäädavalt"
+msgstr[1] "Kui sa kirjed kustutad, hävivad need jäädavalt"
+
+#, c-format
+msgid "Could not move %s to trash"
+msgstr "%s polnud võimalik prügikasti liigutada"
+
+#. Nothing selected.
+msgid "Save File"
+msgstr "Faili salvestamine"
+
+#, c-format
+msgid "Could not save %s"
+msgstr "%s polnud võimalik salvestada"
+
+msgid "Stop _Recording"
+msgstr "Lõpeta _filmimine"
+
+msgid "Stop recording"
+msgstr "Video salvestamise lõpetamine"
+
+msgid "_Record a Video"
+msgstr "_Filmi"
+
+msgid "Record a video"
+msgstr "Video salvestamine"
+
+#. FIXME: Set the effects action to be inactive.
+msgid "Stop _Taking Pictures"
+msgstr "Lõpeta _pildistamine"
+
+msgid "Stop taking pictures"
+msgstr "Pildistamise lõpetamine"
+
+msgid "Take Multiple Photos"
+msgstr "Sarivõte"
+
+msgid "Take multiple photos"
+msgstr "Sarivõttega pildistamine"
+
+msgid "No effects found"
+msgstr "Efekte ei leitud"
+
+msgid "There was an error playing video from the webcam"
+msgstr "Video esitamisel veebikaamerast esines viga"
+
+msgid "Open"
+msgstr "Ava"
+
+msgid "Save _As…"
+msgstr "Salvesta _kui…"
+
+msgid "Move to _Trash"
+msgstr "Viska _prügikasti"
+
+msgid "Delete"
+msgstr "Kustuta"
+
+msgid "Record a video using a webcam"
+msgstr "Video salvestamine veebikaameraga"
+
+msgid "Take _Multiple Photos"
+msgstr "_Tee mitu fotot"
+
+msgid "Take multiple photos using a webcam"
+msgstr "Sarivõtte pildistamine veebikaameraga"
+
+#~ msgid "Share…"
+#~ msgstr "Jaga…"
+
+#~ msgid "Move _All to Trash"
+#~ msgstr "Viska _kõik prügikasti"
+
+#~ msgid "_Wide Mode"
+#~ msgstr "_Lairežiim"
+
+#~ msgid "P_revious Effects"
+#~ msgstr "_Eelmised efektid"
+
+#~ msgid "Ne_xt Effects"
+#~ msgstr "_Järgmised efektid"
+
+#~ msgid "Previous"
+#~ msgstr "Eelmine"
+
+#~ msgid "Next"
+#~ msgstr "Järgmine"
+
+#~ msgid "Leave fullscreen"
+#~ msgstr "Välju täisekraanvaatest"
+
+#~ msgid "Picture hue"
+#~ msgstr "Pildi toon"
+
+#~ msgid "Whether to start in wide mode"
+#~ msgstr "Kas alustada lairežiimis"
+
+#~ msgid ""
+#~ "If set to true, Cheese will start up in wide mode, with the image "
+#~ "collection placed on the right-hand side. Useful with small screens."
+#~ msgstr ""
+#~ "Kui märgitud, käivitub Cheese lairežiimis, kus pildikollektsioon on "
+#~ "paigutatud paremasse serva. See on kasulik väikeste ekraanide korral."
+
+#~ msgid "Whether to start in fullscreen"
+#~ msgstr "Kas alustada täisekraanvaates"
+
+#~ msgid "If set to true, Cheese will start up in fullscreen mode."
+#~ msgstr "Kui märgitud, käivitub Cheese täisekraani režiimis."
+
+#~ msgid "_Take a photo"
+#~ msgstr "_Pildista"
+
+#~ msgid "Another instance of Cheese is currently running\n"
+#~ msgstr "Üks Cheese'i instants juba töötab\n"
