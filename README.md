@@ -47,5 +47,6 @@ gcc -g -O0 encode_video.c -lavformat -lavutil -lavdevice  -lavcodec -o encode_vi
 下面是瓶子全空摇晃采集的视频
 ![1699528801970](image/README/1699528801970.png)
 
-联系我们
+## 联系我们
+
 本软件包为东南大学大四16个课时课程设计的参考。如有任何问题/意见/建议，请联系 213203742@seu.edu.cn
